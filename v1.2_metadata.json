@@ -1,0 +1,9 @@
+{
+  "title": "SDED v1.2 Revision B Specification and Approved Vocabulary Set 1",
+  "version": "1.2 Revision B",
+  "author": "Brian Wijaya",
+  "license": "CC-BY 4.0 International",
+  "publication_date": "2025-10-23T10:49:00-06:00",
+  "doi": "[placeholder]",
+  "description": "This document defines the SDED v1.2 Revision B protocol and introduces Approved Vocabulary Set 1 (AV-1) organized by domain. It outlines the goals of SDED (replacing eponymous terms with descriptive equivalents across domains for clarity and consistency), details the protocol's structure (scope, syntactic equivalence principle, glossary generation rules, and subdomain expansion policy with derivative subdomain naming rules), and presents thematically grouped Approved Vocabulary for Mathematics, Physics, Computer Science, Engineering, Medicine, Biology, and Linguistics and Humanities. Revision B adds pronunciation guidance and legal commentary on the use of trademark symbols in parody and linguistic reclamation."
+}

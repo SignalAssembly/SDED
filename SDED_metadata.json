@@ -1,0 +1,26 @@
+{
+    "title": "SDED Protocol Specification: Substantive-Description Eponym Deprecation",
+    "upload_type": "publication",
+    "publication_type": "report",
+    "creators": [
+        {
+            "name": "Brian Wijaya",
+            "affiliation": "Independent Researcher"
+        }
+    ],
+    "description": "The SDED (Substantive-Description Eponym Deprecation) Protocol defines a standardized linguistic framework for descriptor-first scientific naming. It replaces arbitrary and commemorative eponyms with explicit, phenomenological descriptors to restore epistemic transparency across scientific, technical, and pedagogical contexts. Names constructed under SDED consist of a Substantive-Description followed by the legacy eponym in parentheses with a TM mark and year of establishment.",
+    "keywords": [
+        "naming convention",
+        "taxonomy",
+        "ontology",
+        "descriptor-first",
+        "SDED protocol"
+    ],
+    "license": {
+        "id": "cc-by-4.0"
+    },
+    "language": "eng",
+    "version": "1.0",
+    "publication_date": "2025-10-22",
+    "access_right": "open"
+}

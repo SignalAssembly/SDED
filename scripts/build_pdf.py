@@ -1,5 +1,6 @@
 """Build the reading edition using ReportLab. Requires reportlab and local fonts."""
 import html
+import sys
 import os
 import re
 from pathlib import Path
@@ -15,7 +16,8 @@ from reportlab.platypus import (BaseDocTemplate, Frame, PageTemplate, Paragraph,
 from reportlab.platypus.tableofcontents import TableOfContents
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / 'output/pdf/SDED-2.0.pdf'
+VOCABULARY_ONLY = '--vocabulary-only' in sys.argv
+OUT = ROOT / ('output/pdf/SDED-2.0-vocabulary.pdf' if VOCABULARY_ONLY else 'output/pdf/SDED-2.0.pdf')
 OUT.parent.mkdir(parents=True, exist_ok=True)
 rl_config.warnOnMissingFontGlyphs = 1
 fontdir = Path(os.environ.get('SDED_FONT_DIR', '/Library/Fonts'))
@@ -27,7 +29,7 @@ fallback = Path(os.environ.get('SDED_FALLBACK_FONT', '/Library/Fonts/Arial Unico
 pdfmetrics.registerFont(TTFont('Fallback', str(fallback)))
 body_chars = pdfmetrics.getFont('Body').face.charToGlyph
 fallback_chars = pdfmetrics.getFont('Fallback').face.charToGlyph
-source = (ROOT / 'paper/SDED-2.0.md').read_text()
+source = (ROOT / ('vocabulary/SDED-2.0-vocabulary.md' if VOCABULARY_ONLY else 'SDED-2.0.md')).read_text()
 missing = sorted({c for c in source if ord(c)>31 and ord(c) not in body_chars and ord(c) not in fallback_chars})
 if missing:
     raise ValueError(f'No font coverage for {missing!r}')
@@ -60,6 +62,8 @@ styles={
  'h3':ParagraphStyle('h3',fontName='BodyBold',fontSize=12.2,leading=16,spaceBefore=13,spaceAfter=7,keepWithNext=True,textColor=colors.HexColor('#235e77')),
  'table':ParagraphStyle('table',fontName='Body',fontSize=8.3,leading=11.3,spaceAfter=0,splitLongWords=True),
  'bullet':ParagraphStyle('bullet',fontName='Body',fontSize=10.3,leading=14.5,leftIndent=14,firstLineIndent=-10,spaceAfter=6.5),
+ 'h4':ParagraphStyle('h4',fontName='BodyBold',fontSize=10.2,leading=13,spaceBefore=9,spaceAfter=5,keepWithNext=True,textColor=colors.HexColor('#235e77')),
+ 'library':ParagraphStyle('library',fontName='Body',fontSize=9.5,leading=13,spaceAfter=9),
  'reference':ParagraphStyle('reference',fontName='Body',fontSize=8.3,leading=11.5,spaceAfter=8,splitLongWords=True),
 }
 class Document(BaseDocTemplate):
@@ -81,7 +85,7 @@ def page(c, doc):
     c.restoreState()
 
 doc=Document(str(OUT),pagesize=letter,leftMargin=48,rightMargin=48,topMargin=57,bottomMargin=51,
-             title='SDED 2.0: Self-Documenting Terminology for the Arts and Humanities',
+             title='SDED 2.0: Vocabulary Index' if VOCABULARY_ONLY else 'SDED 2.0: Specification and Expanded Vocabulary',
              author='Brian Wijaya',subject='Conceptual framework, naming protocol, and research agenda')
 doc.addPageTemplates(PageTemplate(id='main',frames=[Frame(48,51,516,684,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)],onPage=page))
 story=[]; lines=source.splitlines(); i=0; keynum=0
@@ -109,14 +113,14 @@ while i<len(lines):
         story += [table,Spacer(1,10)];continue
     if line.startswith('#'):
         hashes=len(line)-len(line.lstrip('#')); title=line.lstrip('# ')
-        if title.startswith('1. The problem'):
+        if title.startswith('A. New vocabulary'):
             story.append(PageBreak())
             story.append(Paragraph('Contents',styles['h2']))
             toc=TableOfContents();toc.levelStyles=[ParagraphStyle('toc',fontName='Body',fontSize=9.5,leading=12,spaceBefore=0,spaceAfter=0)]
             story += [toc,PageBreak()]
-        style='title' if hashes==1 else ('subtitle' if title=='Naming as an Engineered Knowledge Interface' else 'h2' if hashes==2 else 'h3')
+        style='title' if hashes==1 else ('subtitle' if title.startswith('Self-Documenting Terminology in ') else 'h2' if hashes==2 else 'h3' if hashes==3 else 'h4')
         p=Paragraph(rich(title),styles[style])
-        if hashes==2 and (re.match(r'\d+\.',title) or title.startswith('Appendix')):
+        if hashes==2 and (re.match(r'(?:\d+|[A-E])\.',title) or title.startswith(('Appendix','Framework'))):
             keynum+=1;p.toc_label=title;p.toc_key=f'section-{keynum}'
         story.append(p);i+=1;continue
     if re.match(r'^(- |\d+\. )',line):
@@ -124,16 +128,19 @@ while i<len(lines):
     para=[line];i+=1
     while i<len(lines) and lines[i].strip() and not lines[i].startswith(('#','|','- ')):
         para.append(lines[i].strip());i+=1
-    story.append(Paragraph(rich(' '.join(para)),styles['body']))
+    joined=' '.join(para)
+    story.append(Paragraph(rich(joined),styles['library'] if joined.count('est.')>1 and not joined.startswith(('Format:','The ')) else styles['body']))
 
-p=Paragraph('Cited source index',styles['h2']);p.toc_label='Cited source index';p.toc_key='source-index';story.append(p)
-story.append(Paragraph('Sources linked in the manuscript, in first-citation order. Access and discovery date: September 8, 2026. Some publisher pages were available through indexed text or metadata only; the historical PDF access limitation is stated in Sections 2 and 16.',styles['body']))
 seen=set()
-for m in inline_pattern.finditer(source):
-    if not m.group(1): continue
-    label,url=m.group(1),m.group(2)
-    if url in seen:continue
-    seen.add(url)
-    story.append(Paragraph(rich(f'[{label}]({url})')+'<br/>'+esc(url),styles['reference']))
+if not VOCABULARY_ONLY:
+    p=Paragraph('Cited source index',styles['h2']);p.toc_label='Cited source index';p.toc_key='source-index';story.append(p)
+    story.append(Paragraph('Sources linked in the manuscript, in first-citation order. Access and discovery date: September 8, 2026. Some publisher pages were available through indexed text or metadata only; the historical PDF access limitation is stated in Sections 2 and 16.',styles['body']))
+    seen=set()
+    for m in re.finditer(r"\[([^\]\n]+)\]\((https?://[^\s)]+)\)",source):
+        if not m.group(1): continue
+        label,url=m.group(1),m.group(2)
+        if url in seen:continue
+        seen.add(url)
+        story.append(Paragraph(rich(f'[{label}]({url})')+'<br/>'+esc(url),styles['reference']))
 doc.multiBuild(story)
 print(f'Built {OUT}; {len(seen)} unique source links.')

@@ -49,3 +49,7 @@ The old implementation's line-length-triggered taxonomy and example split into h
 ## What is still unavailable
 
 The deposited v1.0/v1.1 PDF bytes; attachments missing from local conversation exports; authenticated Zenodo ownership and new-version state. A publication-specific mapping must be finalized against the deposited PDF once access returns. The manuscript currently labels the v1.1 versus v1.2 distinction explicitly.
+
+## Restored vocabulary coverage
+
+The next preparation pass recovers 438 entries from the latest Revision B builder and matches all 438 in its PDF. The expanded-library source, earlier full builder, and four repository PDFs yield 696 distinct descriptive-name/historical-name/date mappings after deduplication. The 258 additional mappings preserve earlier names and date variants. Extraction counts and per-entry provenance are recorded in `data/inherited-vocabulary.json`. All are rendered in the 2.0 compact vocabulary rather than merely left inside archival PDFs.

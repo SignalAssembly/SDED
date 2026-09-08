@@ -1,0 +1,86 @@
+domain	subdomain	descriptive_name	historical_name	established_date	relation	scope
+MUSIC	SEVENTH CHORDS	Major Triad with Major Seventh	Major Seventh Chord	unknown	scoped replacement	Seventh measured above the root; conventional symbol maj7.
+MUSIC	SEVENTH CHORDS	Major Triad with Minor Seventh	Dominant Seventh Chord	unknown	scoped replacement	Chord-quality sense; seventh above root; symbol 7; function separate.
+MUSIC	SEVENTH CHORDS	Minor Triad with Minor Seventh	Minor Seventh Chord	unknown	scoped replacement	Seventh above root; conventional symbol m7.
+MUSIC	SEVENTH CHORDS	Minor Triad with Major Seventh	Minor-Major Seventh Chord	unknown	scoped replacement	Seventh above root; conventional symbol m(maj7).
+MUSIC	SEVENTH CHORDS	Diminished Triad with Minor Seventh	Half-Diminished Seventh Chord	unknown	scoped replacement	Seventh above root; conventional symbol m7(b5).
+MUSIC	SEVENTH CHORDS	Diminished Triad with Diminished Seventh	Fully Diminished Seventh Chord	unknown	scoped replacement	Seventh above root; conventional symbol dim7.
+MUSIC	SEVENTH CHORDS	Augmented Triad with Minor Seventh	Augmented Seventh Chord	unknown	scoped replacement	Seventh above root; conventional symbol 7(#5).
+MUSIC	SEVENTH CHORDS	Augmented Triad with Major Seventh	Augmented Major Seventh Chord	unknown	scoped replacement	Seventh above root; conventional symbol maj7(#5).
+MUSIC	EXTENDED AND SUSPENDED CHORDS	Major Triad with Minor Seventh and Major Ninth	Dominant Ninth Chord	unknown	scoped replacement	Chord construction, not a requirement to voice every tone; symbol 9.
+MUSIC	EXTENDED AND SUSPENDED CHORDS	Major Triad with Added Major Ninth	Added-Ninth Major Chord	unknown	scoped replacement	No seventh included by this construction; symbol add9.
+MUSIC	EXTENDED AND SUSPENDED CHORDS	Major Triad with Major Seventh and Major Ninth	Major Ninth Chord	unknown	scoped replacement	Seventh and ninth above root; symbol maj9.
+MUSIC	EXTENDED AND SUSPENDED CHORDS	Minor Triad with Minor Seventh and Major Ninth	Minor Ninth Chord	unknown	scoped replacement	Seventh and ninth above root; symbol m9.
+MUSIC	EXTENDED AND SUSPENDED CHORDS	Root-Fourth-Fifth Chord	Suspended-Fourth Chord	unknown	scoped replacement	Static sus4 construction, with perfect fourth and fifth; does not assert temporal preparation or resolution.
+MUSIC	EXTENDED AND SUSPENDED CHORDS	Root-Second-Fifth Chord	Suspended-Second Chord	unknown	scoped replacement	Static sus2 construction, with major second and perfect fifth.
+MUSIC	SCALE DEGREES	Tonic-Relative First Degree	Tonic	unknown	scoped replacement	Scale-degree sense only; tonic as center or function is a separate use.
+MUSIC	SCALE DEGREES	Tonic-Relative Second Degree	Supertonic	unknown	scoped replacement	Scale-degree sense; interval depends on mode or alteration.
+MUSIC	SCALE DEGREES	Tonic-Relative Third Degree	Mediant	unknown	scoped replacement	Scale-degree sense only.
+MUSIC	SCALE DEGREES	Tonic-Relative Fourth Degree	Subdominant	unknown	scoped replacement	Scale-degree sense, not every subdominant function.
+MUSIC	SCALE DEGREES	Tonic-Relative Fifth Degree	Dominant	unknown	scoped replacement	Scale-degree sense, not every harmonic function or seventh-chord quality.
+MUSIC	SCALE DEGREES	Tonic-Relative Sixth Degree	Submediant	unknown	scoped replacement	Scale-degree sense only.
+MUSIC	SCALE DEGREES	Seventh Degree a Semitone Below Tonic	Leading Tone	unknown	scoped replacement	Standard tonal seventh-degree usage; behavior and chromatic leading tones need context.
+MUSIC	SCALE DEGREES	Seventh Degree a Whole Tone Below Tonic	Subtonic	unknown	scoped replacement	Standard tonal seventh-degree usage.
+MUSIC	INVERSIONS AND BASS	Root-in-Bass Position	Root Position	unknown	scoped replacement	Rooted tertian chord analysis.
+MUSIC	INVERSIONS AND BASS	Third-in-Bass Inversion	First Inversion	unknown	scoped replacement	Rooted tertian triad or seventh chord.
+MUSIC	INVERSIONS AND BASS	Fifth-in-Bass Inversion	Second Inversion	unknown	scoped replacement	Rooted tertian triad or seventh chord.
+MUSIC	INVERSIONS AND BASS	Seventh-in-Bass Inversion	Third Inversion	unknown	scoped replacement	Rooted tertian seventh chord.
+MUSIC	CHROMATIC HARMONY	Lowered-Second-Degree Major Triad	Neapolitan Chord	unknown	scoped replacement	Standard tonal chord construction; inversion and predominant use separate.
+MUSIC	CHROMATIC HARMONY	Lowered-Second-Degree Major Triad with Third in Bass	Neapolitan Sixth	unknown	scoped replacement	Standard tonal first-inversion construction.
+MUSIC	CHROMATIC HARMONY	Augmented-Sixth Sonority with Tonic	Italian Augmented-Sixth Chord	unknown	scoped replacement	Major-reference degrees flat 6, 1, sharp 4; spelling and voice leading matter.
+MUSIC	CHROMATIC HARMONY	Augmented-Sixth Sonority with Tonic and Second Degree	French Augmented-Sixth Chord	unknown	scoped replacement	Major-reference degrees flat 6, 1, 2, sharp 4.
+MUSIC	CHROMATIC HARMONY	Augmented-Sixth Sonority with Tonic and Lowered Third Degree	German Augmented-Sixth Chord	unknown	scoped replacement	Major-reference degrees flat 6, 1, flat 3, sharp 4; not identical in analysis to an enharmonic dominant seventh.
+MUSIC	MODERN DIATONIC MODES	Major Diatonic Mode	Ionian Mode	unknown	scoped replacement	Modern tonic-oriented diatonic usage, not an ancient Greek mode.
+MUSIC	MODERN DIATONIC MODES	Diatonic Mode with Lowered Third and Seventh	Dorian Mode	unknown	scoped replacement	All alterations relative to major-mode degrees.
+MUSIC	MODERN DIATONIC MODES	Diatonic Mode with Lowered Second, Third, Sixth, and Seventh	Phrygian Mode	unknown	scoped replacement	All alterations relative to major-mode degrees.
+MUSIC	MODERN DIATONIC MODES	Diatonic Mode with Raised Fourth	Lydian Mode	unknown	scoped replacement	Alteration relative to major-mode degrees.
+MUSIC	MODERN DIATONIC MODES	Diatonic Mode with Lowered Seventh	Mixolydian Mode	unknown	scoped replacement	Alteration relative to major-mode degrees.
+MUSIC	MODERN DIATONIC MODES	Diatonic Mode with Lowered Third, Sixth, and Seventh	Aeolian Mode	unknown	scoped replacement	All alterations relative to major-mode degrees.
+MUSIC	MODERN DIATONIC MODES	Diatonic Mode with Lowered Second, Third, Fifth, Sixth, and Seventh	Locrian Mode	unknown	scoped replacement	All alterations relative to major-mode degrees.
+MUSIC	MINOR-SCALE FORMS	Natural-Minor Pattern with Raised Seventh	Harmonic Minor Scale	unknown	scoped replacement	Pitch-pattern description; does not restrict melodic use.
+MUSIC	MINOR-SCALE FORMS	Natural-Minor Pattern with Raised Sixth and Seventh	Ascending Melodic Minor Scale	unknown	scoped replacement	Classical ascending pattern; descending practice is separate.
+MUSIC	MINOR-SCALE FORMS	Natural-Minor Pattern with Raised Sixth and Seventh in Both Directions	Jazz Melodic Minor Scale	unknown	scoped replacement	Common jazz pitch-pattern usage.
+MUSIC	METER	Two Beats per Bar with Two-Part Beat Subdivision	Simple Duple Meter	unknown	scoped replacement	Primary beat and subdivision under the stated metrical analysis.
+MUSIC	METER	Three Beats per Bar with Two-Part Beat Subdivision	Simple Triple Meter	unknown	scoped replacement	Primary beat and subdivision under the stated metrical analysis.
+MUSIC	METER	Four Beats per Bar with Two-Part Beat Subdivision	Simple Quadruple Meter	unknown	scoped replacement	Primary beat and subdivision under the stated metrical analysis.
+MUSIC	METER	Two Beats per Bar with Three-Part Beat Subdivision	Compound Duple Meter	unknown	scoped replacement	For example, an ordinary compound-duple reading of 6/8.
+MUSIC	METER	Three Beats per Bar with Three-Part Beat Subdivision	Compound Triple Meter	unknown	scoped replacement	For example, an ordinary compound-triple reading of 9/8.
+MUSIC	METER	Four Beats per Bar with Three-Part Beat Subdivision	Compound Quadruple Meter	unknown	scoped replacement	For example, an ordinary compound-quadruple reading of 12/8.
+MUSIC	VOICING AND GUITAR	Root-Third-Seventh Voicing	Shell Voicing	unknown	scoped replacement	Specified jazz teaching use; other shell contents exist. Omitting fifth loses some chord-quality distinctions.
+MUSIC	VOICING AND GUITAR	Second-from-Top Voice Lowered One Octave	Drop-2 Voicing	unknown	scoped replacement	Operation on a specified close-position arrangement; not scale degree 2.
+MUSIC	VOICING AND GUITAR	Open-Chord-Form Fretboard Mapping	CAGED System	unknown	orientation	Preserve CAGED as the system's name; C, A, G, E, D identify template forms, not always sounding roots.
+MUSIC	PERFORMANCE AND PRODUCTION	Pitch Modulation	Vibrato	unknown	scoped replacement	Acoustic parameter sense; particular instrument techniques and device labels vary.
+MUSIC	PERFORMANCE AND PRODUCTION	Amplitude Modulation	Tremolo	unknown	scoped replacement	Electronic effect sense; not repeated-note tremolo.
+MUSIC	PERFORMANCE AND PRODUCTION	Rapid Note Repetition	Tremolo	unknown	scoped replacement	Specified performance-technique sense; split from amplitude-modulation effect.
+MUSIC	PERFORMANCE AND PRODUCTION	Take-Composite Editing	Comping	unknown	scoped replacement	Studio editing sense, not accompaniment.
+MUSIC	PERFORMANCE AND PRODUCTION	Harmonic Accompaniment	Comping	unknown	scoped replacement	Jazz accompaniment sense, not studio editing.
+MUSIC	NOTATION	G Clef on the Second Staff Line	Treble Clef	unknown	scoped replacement	Staff lines counted upward.
+MUSIC	NOTATION	F Clef on the Fourth Staff Line	Bass Clef	unknown	scoped replacement	Staff lines counted upward.
+MUSIC	NOTATION	C Clef on the Third Staff Line	Alto Clef	unknown	scoped replacement	Staff lines counted upward.
+MUSIC	NOTATION	C Clef on the Fourth Staff Line	Tenor Clef	unknown	scoped replacement	Staff lines counted upward.
+MUSIC	NOTATION	Fixed-Pitch Do Solfège	Fixed-Do Solfège	unknown	scoped replacement	Pitch-reference policy; local accidental-syllable conventions still require specification.
+MUSIC	NOTATION	Tonic-Relative Do Solfège	Movable-Do Solfège	unknown	scoped replacement	Do-based tonic policy; la-based minor is a separate convention.
+MUSIC	TUNING AND TRANSFORMATIONS	Twelve Equal Logarithmic Divisions of the Octave	Twelve-Tone Equal Temperament	unknown	scoped replacement	Equal frequency ratios, not equal frequency differences.
+MUSIC	TUNING AND TRANSFORMATIONS	Time-Order Reversal	Retrograde	unknown	scoped replacement	Musical sequence operation; specify the sequence being reversed.
+MUSIC	TUNING AND TRANSFORMATIONS	Pitch-Direction Inversion	Contrapuntal Inversion	unknown	scoped replacement	Melodic inversion sense, with axis and interval policy specified; not invertible counterpoint or chord inversion.
+PHILOSOPHY	PROBLEMS AND THOUGHT EXPERIMENTS	Justified-True-Belief Insufficiency Problem	Gettier Problem	1963	orientation	1963 dates Gettier's paper, not verified coinage of the later problem label.
+PHILOSOPHY	PROBLEMS AND THOUGHT EXPERIMENTS	Descriptive-to-Normative Inference Problem	Is–Ought Problem	unknown	orientation	Specify the logical or justificatory claim and interpretation of Hume.
+PHILOSOPHY	PROBLEMS AND THOUGHT EXPERIMENTS	Descriptive-to-Normative Inference Problem	Hume's Guillotine	unknown	orientation	Later metaphorical label; no first-use date asserted.
+PHILOSOPHY	PROBLEMS AND THOUGHT EXPERIMENTS	Artifact-Identity Problem under Replacement and Reassembly	Ship of Theseus	unknown	orientation	Retain scenario name; identify the variant under discussion.
+PHILOSOPHY	PROBLEMS AND THOUGHT EXPERIMENTS	Symbol-Manipulation and Understanding Thought Experiment	Chinese Room	1980	orientation	1980 dates Searle's paper; descriptor does not assert the argument's conclusion.
+PHILOSOPHY	PRINCIPLES AND POSITIONS	Parsimony Preference under Adequacy Constraints	Occam's Razor	unknown	orientation	Specify what simplicity measures and what is held equal; not a truth guarantee.
+PHILOSOPHY	PRINCIPLES AND POSITIONS	Mind–Body Substance Dualism in Descartes's Account	Cartesian Dualism	1641	orientation	1641 refers to Meditations; wider substance dualism is not an exact historical synonym.
+PHILOSOPHY	PRINCIPLES AND POSITIONS	Realism about Abstract Objects	Platonism	unknown	scoped replacement	Modern metaphysical usage only; not an exact replacement for Plato's historical philosophy.
+PHILOSOPHY	LOGIC	Deductively Truth-Preserving Argument	Valid Argument	unknown	scoped replacement	Standard deductive validity sense; does not assert that premises are true.
+PHILOSOPHY	LOGIC	Valid Argument with True Premises	Sound Argument	unknown	scoped replacement	Argument sense, not metatheoretic soundness of a proof system.
+PHILOSOPHY	EPISTEMIC WARRANT	Justification Independent of Experience	A Priori Justification	unknown	scoped replacement	Standard epistemic distinction; concept acquisition may still involve experience.
+PHILOSOPHY	EPISTEMIC WARRANT	Justification Dependent on Experience	A Posteriori Justification	unknown	scoped replacement	Epistemic basis, not a simple chronological before/after distinction.
+ARTS AND HUMANITIES	RHETORIC	Successive-Unit Initial Repetition	Anaphora	unknown	scoped replacement	Rhetorical repetition, not linguistic reference.
+ARTS AND HUMANITIES	RHETORIC	Successive-Unit Final Repetition	Epistrophe	unknown	scoped replacement	Rhetorical repetition at the ends of successive units.
+ARTS AND HUMANITIES	LITERATURE	Verse without Regular Meter	Free Verse	unknown	scoped replacement	Orientation to the metrical criterion; does not mean verse without form or rhythm.
+ARTS AND HUMANITIES	VISUAL ART	Space around and between Focal Forms	Negative Space	unknown	orientation	Instructional gloss; keep figure–ground ambiguity and compositional uses visible.
+ARTS AND HUMANITIES	THEATRE	Single-Speaker Extended Speech	Monologue	unknown	scoped replacement	Dramatic speech configuration; does not specify audience or dramatic function.
+ARTS AND HUMANITIES	ARCHITECTURE	Pointed-Arch and Rib-Vault Architectural Tradition	Gothic Architecture	unknown	orientation	Selected identifying features only; not an exact substitute for the historical classification.
+ARTS AND HUMANITIES	MUSIC CULTURE	Río de la Plata Music-Dance Tradition	Tango	unknown	orientation	Retain tango as the cultural name; the descriptor is broader and incomplete.
+ARTS AND HUMANITIES	MUSIC CULTURE	Andalusian Cante-Baile-Toque Tradition	Flamenco	unknown	orientation	Retain flamenco; recognize community histories and the essential Gitano/Roma contribution.
+ARTS AND HUMANITIES	INSTRUMENT CLASSIFICATION	Sound-Production Instrument Classification	Hornbostel-Sachs Classification	unknown	orientation	Retain the system name and specify edition; not all sound-production classifications are this system.

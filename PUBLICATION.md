@@ -8,15 +8,18 @@ The public record API responded, but Zenodo's login and upload pages returned HT
 
 ## Prepared package
 
-- `paper/SDED-2.0.md`: complete manuscript, including abstract, domain audits, research agenda, and all eighteen requested deliverables.
-- `output/pdf/SDED-2.0.pdf`: typeset reading edition.
+- `SDED-2.0.md` and `output/pdf/SDED-2.0.pdf`: complete specification with the restored and expanded vocabulary first, followed by the framework paper.
+- `vocabulary/SDED-2.0-vocabulary.md` and `output/pdf/SDED-2.0-vocabulary.pdf`: compact reference edition with 696 inherited mappings and 85 new pairs.
+- `vocabulary/HISTORICAL-NAME-LOOKUP.md`: alphabetical lookup from historical names.
+- `data/inherited-vocabulary.json`, `data/new-vocabulary.tsv`, and `data/new-vocabulary.json`: mappings, source provenance, scope, and status.
+- `paper/SDED-2.0.md`: framework, abstract, domain audits, research agenda, and eighteen-deliverable map.
 - `data/examples.json`: structured audit records derived from the manuscript, with proposal status.
 - `data/chord-quality-matrix.json`: explicit chord-quality coordinates and conventional symbols.
 - `research/HISTORY.md`: recovered chronology and source limitations.
 - `CONTRIBUTING.md`: participation and review rules, with optional TM styling.
 - `.zenodo.json`: proposed descriptive metadata; it does not create a deposit.
 - `output/SDED-2.0-source.zip`: source and data package, excluding private recovery files.
-- `output/SHA256SUMS.txt`: checksums for the PDF and source archive.
+- `output/SHA256SUMS.txt`: checksums for both PDFs and the source archive.
 
 ## Publication continuation
 

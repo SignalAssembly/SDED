@@ -6,14 +6,18 @@ The historical project name and acronym are retained for continuity. The expande
 
 ## Current revision
 
-- [SDED 2.0 manuscript](paper/SDED-2.0.md)
-- [PDF reading edition](output/pdf/SDED-2.0.pdf)
+- [Vocabulary index PDF](output/pdf/SDED-2.0-vocabulary.pdf)
+- [Complete specification and vocabulary PDF](output/pdf/SDED-2.0.pdf)
+- [Complete Markdown edition](SDED-2.0.md)
+- [Compact vocabulary in Markdown](vocabulary/SDED-2.0-vocabulary.md)
+- [Alphabetical historical-name lookup](vocabulary/HISTORICAL-NAME-LOOKUP.md)
+- [Framework and case-study paper](paper/SDED-2.0.md)
 - [Contribution rules](CONTRIBUTING.md)
 - [Machine-readable example records](data/examples.json)
 - [Historical reconstruction and source limits](research/HISTORY.md)
 - [Publication status](PUBLICATION.md)
 
-The manuscript is a conceptual framework and research protocol. Proposed descriptors are explicitly distinguished from established terms and empirically validated recommendations.
+The reference restores 438 mappings from the latest prior library and 258 additional earlier mappings, then adds 85 new proposed name pairs. The compact index appears before the extended paper in the full edition. The paper is a conceptual framework and research protocol. Proposed descriptors are explicitly distinguished from established terms and empirically validated recommendations.
 
 ## Historical attribution
 
@@ -31,6 +35,8 @@ Text: CC BY 4.0, continuing the earlier project's license.
 
 ## Rebuilding
 
-Run `python3 scripts/build_data.py` to export the eighty eight-field audit proposals and eight chord-quality records. Run `python3 scripts/build_pdf.py` with ReportLab installed to typeset the manuscript. The PDF builder uses Lato faces in `SDED_FONT_DIR` (default `/Library/Fonts`) and a Unicode fallback font selected by `SDED_FALLBACK_FONT`. It checks glyph coverage before writing the PDF. It adds a linked contents page and cited-source index.
+Run `python3 scripts/build_vocabulary.py` with pypdf installed to recover the prior mappings, render the compact index, and assemble `SDED-2.0.md`. Run `python3 scripts/build_data.py` to export the eighty eight-field audit proposals and eight chord-quality records. Run `python3 scripts/build_pdf.py` with ReportLab installed to typeset the complete edition; add `--vocabulary-only` for the separate reference PDF. The PDF builder uses Lato faces in `SDED_FONT_DIR` (default `/Library/Fonts`) and a Unicode fallback font selected by `SDED_FALLBACK_FONT`. It checks glyph coverage before writing the PDF. It adds a linked contents page and cited-source index.
+
+After rebuilding both PDFs, run `python3 scripts/package_release.py` to package the public sources, including the historical recovery inputs, and refresh the artifact checksums.
 
 The example data are proposals, not an approved replacement dictionary. Audit IDs identify discussion records; the separately scoped chord-quality IDs identify the construction types used in the demonstration.

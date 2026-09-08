@@ -9,3 +9,7 @@ Makes `("Historical name", est. YYYY)` the default attribution format. The TM ma
 Supersedes universal substitution promises and layout-driven ontology. Preserves useful historical labels and symbols. Does not revalidate the earlier generated vocabulary or claim demonstrated learning benefits.
 
 Zenodo deposition remains pending because its authenticated pages returned HTTP 504. The historical deposited PDF downloads also timed out; those source limits are explicit in the manuscript.
+
+## Vocabulary restoration
+
+Restores the complete 438-entry latest Revision B vocabulary and 258 additional name/date mappings from earlier repository artifacts. Adds 85 explicit new name pairs in the original compact domain/subdomain format, plus an alphabetical historical-name lookup. The complete edition now puts the vocabulary before the extended framework paper, and a separate vocabulary-only PDF provides direct reference access. Earlier names remain visible when a semantic concern requires a correction note.

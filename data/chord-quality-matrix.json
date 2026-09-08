@@ -1,0 +1,146 @@
+[
+  {
+    "id": "sded:chord-quality:major-major",
+    "descriptive_name": "Major triad with major seventh above its root",
+    "triad_quality": "major",
+    "seventh_quality": "major",
+    "root_relative_semitones_12tet": [
+      0,
+      4,
+      7,
+      11
+    ],
+    "example_symbol_on_C": "Cmaj7",
+    "conventional_alias": "major seventh chord",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  },
+  {
+    "id": "sded:chord-quality:major-minor",
+    "descriptive_name": "Major triad with minor seventh above its root",
+    "triad_quality": "major",
+    "seventh_quality": "minor",
+    "root_relative_semitones_12tet": [
+      0,
+      4,
+      7,
+      10
+    ],
+    "example_symbol_on_C": "C7",
+    "conventional_alias": "dominant seventh chord, quality sense",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  },
+  {
+    "id": "sded:chord-quality:minor-minor",
+    "descriptive_name": "Minor triad with minor seventh above its root",
+    "triad_quality": "minor",
+    "seventh_quality": "minor",
+    "root_relative_semitones_12tet": [
+      0,
+      3,
+      7,
+      10
+    ],
+    "example_symbol_on_C": "Cm7",
+    "conventional_alias": "minor seventh chord",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  },
+  {
+    "id": "sded:chord-quality:minor-major",
+    "descriptive_name": "Minor triad with major seventh above its root",
+    "triad_quality": "minor",
+    "seventh_quality": "major",
+    "root_relative_semitones_12tet": [
+      0,
+      3,
+      7,
+      11
+    ],
+    "example_symbol_on_C": "Cm(maj7)",
+    "conventional_alias": "minor-major seventh chord",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  },
+  {
+    "id": "sded:chord-quality:diminished-minor",
+    "descriptive_name": "Diminished triad with minor seventh above its root",
+    "triad_quality": "diminished",
+    "seventh_quality": "minor",
+    "root_relative_semitones_12tet": [
+      0,
+      3,
+      6,
+      10
+    ],
+    "example_symbol_on_C": "Cm7(b5)",
+    "conventional_alias": "half-diminished seventh chord",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  },
+  {
+    "id": "sded:chord-quality:diminished-diminished",
+    "descriptive_name": "Diminished triad with diminished seventh above its root",
+    "triad_quality": "diminished",
+    "seventh_quality": "diminished",
+    "root_relative_semitones_12tet": [
+      0,
+      3,
+      6,
+      9
+    ],
+    "example_symbol_on_C": "Cdim7",
+    "conventional_alias": "fully diminished seventh chord",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  },
+  {
+    "id": "sded:chord-quality:augmented-minor",
+    "descriptive_name": "Augmented triad with minor seventh above its root",
+    "triad_quality": "augmented",
+    "seventh_quality": "minor",
+    "root_relative_semitones_12tet": [
+      0,
+      4,
+      8,
+      10
+    ],
+    "example_symbol_on_C": "C7(#5)",
+    "conventional_alias": "augmented seventh chord",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  },
+  {
+    "id": "sded:chord-quality:augmented-major",
+    "descriptive_name": "Augmented triad with major seventh above its root",
+    "triad_quality": "augmented",
+    "seventh_quality": "major",
+    "root_relative_semitones_12tet": [
+      0,
+      4,
+      8,
+      11
+    ],
+    "example_symbol_on_C": "Cmaj7(#5)",
+    "conventional_alias": "augmented major seventh chord",
+    "contextual_function": null,
+    "scope": "Tertian chord construction in the stated Western notation profile; actual voicing may omit tones.",
+    "naming_recommendation_status": "proposed",
+    "trademark_marker_required": false
+  }
+]

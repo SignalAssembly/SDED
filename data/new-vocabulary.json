@@ -1,0 +1,1621 @@
+[
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Major Triad with Major Seventh",
+    "historical_name": "Major Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Seventh measured above the root; conventional symbol maj7.",
+    "id": "sded:new:e9be83090cdf",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D01",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Major Triad with Minor Seventh",
+    "historical_name": "Dominant Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Chord-quality sense; seventh above root; symbol 7; function separate.",
+    "id": "sded:new:8f1aed263508",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D02",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Minor Triad with Minor Seventh",
+    "historical_name": "Minor Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Seventh above root; conventional symbol m7.",
+    "id": "sded:new:092fa9d3300c",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D03",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Minor Triad with Major Seventh",
+    "historical_name": "Minor-Major Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Seventh above root; conventional symbol m(maj7).",
+    "id": "sded:new:eb0359c0d7f6",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D04",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Diminished Triad with Minor Seventh",
+    "historical_name": "Half-Diminished Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Seventh above root; conventional symbol m7(b5).",
+    "id": "sded:new:62c728f009b1",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D05",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Diminished Triad with Diminished Seventh",
+    "historical_name": "Fully Diminished Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Seventh above root; conventional symbol dim7.",
+    "id": "sded:new:ed905b0a1e4b",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D06",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Augmented Triad with Minor Seventh",
+    "historical_name": "Augmented Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Seventh above root; conventional symbol 7(#5).",
+    "id": "sded:new:ad21273e49dc",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D07",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SEVENTH CHORDS",
+    "descriptive_name": "Augmented Triad with Major Seventh",
+    "historical_name": "Augmented Major Seventh Chord",
+    "established_date": "by 1872",
+    "relation": "scoped replacement",
+    "scope": "Seventh above root; conventional symbol maj7(#5).",
+    "id": "sded:new:240ddcb3ec1d",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+    "date_evidence": "D08",
+    "date_sources": [
+      "wylde1872"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "EXTENDED AND SUSPENDED CHORDS",
+    "descriptive_name": "Major Triad with Minor Seventh and Major Ninth",
+    "historical_name": "Dominant Ninth Chord",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Chord construction, not a requirement to voice every tone; symbol 9.",
+    "id": "sded:new:d42e2f03bdde",
+    "date_kind": "construction attestation",
+    "dated_event": "Major ninth above a dominant seventh: §324. The date does not establish modern function-independent terminology.",
+    "date_evidence": "D09",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "EXTENDED AND SUSPENDED CHORDS",
+    "descriptive_name": "Major Triad with Added Major Ninth",
+    "historical_name": "Added-Ninth Major Chord",
+    "established_date": "by 1982",
+    "relation": "scoped replacement",
+    "scope": "No seventh included by this construction; symbol add9.",
+    "id": "sded:new:7b6885ff6631",
+    "date_kind": "construction attestation",
+    "dated_event": "The book explicitly spells added ninth as root, third, fifth, and second/ninth, without a seventh.",
+    "date_evidence": "D10",
+    "date_sources": [
+      "denyer1982"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "EXTENDED AND SUSPENDED CHORDS",
+    "descriptive_name": "Major Triad with Major Seventh and Major Ninth",
+    "historical_name": "Major Ninth Chord",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "Seventh and ninth above root; symbol maj9.",
+    "id": "sded:new:e37fe934ca57",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified ninth-chord structure occurs in the exhaustive table, example 3-21.",
+    "date_evidence": "D11",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "EXTENDED AND SUSPENDED CHORDS",
+    "descriptive_name": "Minor Triad with Minor Seventh and Major Ninth",
+    "historical_name": "Minor Ninth Chord",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "Seventh and ninth above root; symbol m9.",
+    "id": "sded:new:ef1416076801",
+    "date_kind": "construction attestation",
+    "dated_event": "The specified ninth-chord structure occurs in the exhaustive table, example 3-21.",
+    "date_evidence": "D12",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "EXTENDED AND SUSPENDED CHORDS",
+    "descriptive_name": "Root-Fourth-Fifth Chord",
+    "historical_name": "Suspended-Fourth Chord",
+    "established_date": "by 1982",
+    "relation": "scoped replacement",
+    "scope": "Static sus4 construction, with perfect fourth and fifth; does not assert temporal preparation or resolution.",
+    "id": "sded:new:9e2ef0a228e7",
+    "date_kind": "construction attestation",
+    "dated_event": "The book defines suspended fourth by replacing the third with the fourth.",
+    "date_evidence": "D13",
+    "date_sources": [
+      "denyer1982"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "EXTENDED AND SUSPENDED CHORDS",
+    "descriptive_name": "Root-Second-Fifth Chord",
+    "historical_name": "Suspended-Second Chord",
+    "established_date": "by 2000",
+    "relation": "scoped replacement",
+    "scope": "Static sus2 construction, with major second and perfect fifth.",
+    "id": "sded:new:36d6eb6b565d",
+    "date_kind": "construction attestation",
+    "dated_event": "Explicit sus2 construction, illustrated as C–D–G. This is a documented bound, not its invention year.",
+    "date_evidence": "D14",
+    "date_sources": [
+      "rooksby2000"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Tonic-Relative First Degree",
+    "historical_name": "Tonic",
+    "established_date": "1797",
+    "relation": "scoped replacement",
+    "scope": "Scale-degree sense only; tonic as center or function is a separate use.",
+    "id": "sded:new:2febb65aff59",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Music noun; do not use the adjective’s 1649 date.",
+    "date_evidence": "D15",
+    "date_sources": [
+      "mw15"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Tonic-Relative Second Degree",
+    "historical_name": "Supertonic",
+    "established_date": "1806",
+    "relation": "scoped replacement",
+    "scope": "Scale-degree sense; interval depends on mode or alteration.",
+    "id": "sded:new:446fa14707dc",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+    "date_evidence": "D16",
+    "date_sources": [
+      "mw16"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Tonic-Relative Third Degree",
+    "historical_name": "Mediant",
+    "established_date": "1721",
+    "relation": "scoped replacement",
+    "scope": "Scale-degree sense only.",
+    "id": "sded:new:5ed93da230b3",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+    "date_evidence": "D17",
+    "date_sources": [
+      "mw17"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Tonic-Relative Fourth Degree",
+    "historical_name": "Subdominant",
+    "established_date": "1775",
+    "relation": "scoped replacement",
+    "scope": "Scale-degree sense, not every subdominant function.",
+    "id": "sded:new:ea36e5399a3e",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+    "date_evidence": "D18",
+    "date_sources": [
+      "mw18"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Tonic-Relative Fifth Degree",
+    "historical_name": "Dominant",
+    "established_date": "1819",
+    "relation": "scoped replacement",
+    "scope": "Scale-degree sense, not every harmonic function or seventh-chord quality.",
+    "id": "sded:new:f719d554b422",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Music noun; do not use the adjective’s 1532 date.",
+    "date_evidence": "D19",
+    "date_sources": [
+      "mw19"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Tonic-Relative Sixth Degree",
+    "historical_name": "Submediant",
+    "established_date": "c. 1775",
+    "relation": "scoped replacement",
+    "scope": "Scale-degree sense only.",
+    "id": "sded:new:fcffa6027d74",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+    "date_evidence": "D20",
+    "date_sources": [
+      "mw20"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Seventh Degree a Semitone Below Tonic",
+    "historical_name": "Leading Tone",
+    "established_date": "c. 1889",
+    "relation": "scoped replacement",
+    "scope": "Standard tonal seventh-degree usage; behavior and chromatic leading tones need context.",
+    "id": "sded:new:6a78cc6188e3",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Semitone-below-tonic sense.",
+    "date_evidence": "D21",
+    "date_sources": [
+      "mw21"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "SCALE DEGREES",
+    "descriptive_name": "Seventh Degree a Whole Tone Below Tonic",
+    "historical_name": "Subtonic",
+    "established_date": "by 2012",
+    "relation": "scoped replacement",
+    "scope": "Standard tonal seventh-degree usage.",
+    "id": "sded:new:bf94e26e7b65",
+    "date_kind": "sense attestation",
+    "dated_event": "The scale table explicitly labels the minor seventh “subtonic.” The 1817 dictionary date was rejected because its documented sense is leading tone.",
+    "date_evidence": "D22",
+    "date_sources": [
+      "tagg2012"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "INVERSIONS AND BASS",
+    "descriptive_name": "Root-in-Bass Position",
+    "historical_name": "Root Position",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Rooted tertian chord analysis.",
+    "id": "sded:new:27a3fc5bf8b1",
+    "date_kind": "construction attestation",
+    "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+    "date_evidence": "D23",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "INVERSIONS AND BASS",
+    "descriptive_name": "Third-in-Bass Inversion",
+    "historical_name": "First Inversion",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Rooted tertian triad or seventh chord.",
+    "id": "sded:new:d9d91ca69867",
+    "date_kind": "construction attestation",
+    "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+    "date_evidence": "D24",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "INVERSIONS AND BASS",
+    "descriptive_name": "Fifth-in-Bass Inversion",
+    "historical_name": "Second Inversion",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Rooted tertian triad or seventh chord.",
+    "id": "sded:new:8427383a905a",
+    "date_kind": "construction attestation",
+    "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+    "date_evidence": "D25",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "INVERSIONS AND BASS",
+    "descriptive_name": "Seventh-in-Bass Inversion",
+    "historical_name": "Third Inversion",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Rooted tertian seventh chord.",
+    "id": "sded:new:7bbaa631cc23",
+    "date_kind": "construction attestation",
+    "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+    "date_evidence": "D26",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "CHROMATIC HARMONY",
+    "descriptive_name": "Lowered-Second-Degree Major Triad",
+    "historical_name": "Neapolitan Chord",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Standard tonal chord construction; inversion and predominant use separate.",
+    "id": "sded:new:2f9584c23c9d",
+    "date_kind": "construction attestation",
+    "dated_event": "Lowered-second major triad and its named first inversion: §§275–276.",
+    "date_evidence": "D27",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "CHROMATIC HARMONY",
+    "descriptive_name": "Lowered-Second-Degree Major Triad with Third in Bass",
+    "historical_name": "Neapolitan Sixth",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Standard tonal first-inversion construction.",
+    "id": "sded:new:dd987babd498",
+    "date_kind": "construction attestation",
+    "dated_event": "Lowered-second major triad and its named first inversion: §§275–276.",
+    "date_evidence": "D28",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "CHROMATIC HARMONY",
+    "descriptive_name": "Augmented-Sixth Sonority with Tonic",
+    "historical_name": "Italian Augmented-Sixth Chord",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Major-reference degrees flat 6, 1, sharp 4; spelling and voice leading matter.",
+    "id": "sded:new:b4abec0f64a8",
+    "date_kind": "construction attestation",
+    "dated_event": "Named augmented-sixth forms and their contents: §§457, 461, 468.",
+    "date_evidence": "D29",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "CHROMATIC HARMONY",
+    "descriptive_name": "Augmented-Sixth Sonority with Tonic and Second Degree",
+    "historical_name": "French Augmented-Sixth Chord",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Major-reference degrees flat 6, 1, 2, sharp 4.",
+    "id": "sded:new:f4a8afefab0b",
+    "date_kind": "construction attestation",
+    "dated_event": "Named augmented-sixth forms and their contents: §§457, 461, 468.",
+    "date_evidence": "D30",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "CHROMATIC HARMONY",
+    "descriptive_name": "Augmented-Sixth Sonority with Tonic and Lowered Third Degree",
+    "historical_name": "German Augmented-Sixth Chord",
+    "established_date": "by 1889",
+    "relation": "scoped replacement",
+    "scope": "Major-reference degrees flat 6, 1, flat 3, sharp 4; not identical in analysis to an enharmonic dominant seventh.",
+    "id": "sded:new:eb68698faa2a",
+    "date_kind": "construction attestation",
+    "dated_event": "Named augmented-sixth forms and their contents: §§457, 461, 468.",
+    "date_evidence": "D31",
+    "date_sources": [
+      "prout1889"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MODERN DIATONIC MODES",
+    "descriptive_name": "Major Diatonic Mode",
+    "historical_name": "Ionian Mode",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "Modern tonic-oriented diatonic usage, not an ancient Greek mode.",
+    "id": "sded:new:a680ed65cb2a",
+    "date_kind": "sense attestation",
+    "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+    "date_evidence": "D32",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MODERN DIATONIC MODES",
+    "descriptive_name": "Diatonic Mode with Lowered Third and Seventh",
+    "historical_name": "Dorian Mode",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "All alterations relative to major-mode degrees.",
+    "id": "sded:new:82ab732993a3",
+    "date_kind": "sense attestation",
+    "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+    "date_evidence": "D33",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MODERN DIATONIC MODES",
+    "descriptive_name": "Diatonic Mode with Lowered Second, Third, Sixth, and Seventh",
+    "historical_name": "Phrygian Mode",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "All alterations relative to major-mode degrees.",
+    "id": "sded:new:931f5c718605",
+    "date_kind": "sense attestation",
+    "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+    "date_evidence": "D34",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MODERN DIATONIC MODES",
+    "descriptive_name": "Diatonic Mode with Raised Fourth",
+    "historical_name": "Lydian Mode",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "Alteration relative to major-mode degrees.",
+    "id": "sded:new:554f0bfa5dd7",
+    "date_kind": "sense attestation",
+    "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+    "date_evidence": "D35",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MODERN DIATONIC MODES",
+    "descriptive_name": "Diatonic Mode with Lowered Seventh",
+    "historical_name": "Mixolydian Mode",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "Alteration relative to major-mode degrees.",
+    "id": "sded:new:3c45789b8602",
+    "date_kind": "sense attestation",
+    "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+    "date_evidence": "D36",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MODERN DIATONIC MODES",
+    "descriptive_name": "Diatonic Mode with Lowered Third, Sixth, and Seventh",
+    "historical_name": "Aeolian Mode",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "All alterations relative to major-mode degrees.",
+    "id": "sded:new:7709f480d473",
+    "date_kind": "sense attestation",
+    "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+    "date_evidence": "D37",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MODERN DIATONIC MODES",
+    "descriptive_name": "Diatonic Mode with Lowered Second, Third, Fifth, Sixth, and Seventh",
+    "historical_name": "Locrian Mode",
+    "established_date": "by 1961",
+    "relation": "scoped replacement",
+    "scope": "All alterations relative to major-mode degrees.",
+    "id": "sded:new:c363dc7d33eb",
+    "date_kind": "sense attestation",
+    "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+    "date_evidence": "D38",
+    "date_sources": [
+      "persichetti1961"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MINOR-SCALE FORMS",
+    "descriptive_name": "Natural-Minor Pattern with Raised Seventh",
+    "historical_name": "Harmonic Minor Scale",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Pitch-pattern description; does not restrict melodic use.",
+    "id": "sded:new:76dc8227c87f",
+    "date_kind": "construction attestation",
+    "dated_event": "Named harmonic and ascending melodic minor forms, §§86–87.",
+    "date_evidence": "D39",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MINOR-SCALE FORMS",
+    "descriptive_name": "Natural-Minor Pattern with Raised Sixth and Seventh",
+    "historical_name": "Ascending Melodic Minor Scale",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Classical ascending pattern; descending practice is separate.",
+    "id": "sded:new:7bf65c739fe5",
+    "date_kind": "construction attestation",
+    "dated_event": "Named harmonic and ascending melodic minor forms, §§86–87.",
+    "date_evidence": "D40",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "MINOR-SCALE FORMS",
+    "descriptive_name": "Natural-Minor Pattern with Raised Sixth and Seventh in Both Directions",
+    "historical_name": "Jazz Melodic Minor Scale",
+    "established_date": "by 1995",
+    "relation": "scoped replacement",
+    "scope": "Common jazz pitch-pattern usage.",
+    "id": "sded:new:8d7ee56a2044",
+    "date_kind": "system attestation",
+    "dated_event": "Levine’s jazz melodic-minor treatment supplies a dated teaching source; it does not date the first jazz performance of the scale.",
+    "date_evidence": "D41",
+    "date_sources": [
+      "levine1995",
+      "rawlins2000"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "METER",
+    "descriptive_name": "Two Beats per Bar with Two-Part Beat Subdivision",
+    "historical_name": "Simple Duple Meter",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Primary beat and subdivision under the stated metrical analysis.",
+    "id": "sded:new:12de962f834e",
+    "date_kind": "classification attestation",
+    "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+    "date_evidence": "D42",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "METER",
+    "descriptive_name": "Three Beats per Bar with Two-Part Beat Subdivision",
+    "historical_name": "Simple Triple Meter",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Primary beat and subdivision under the stated metrical analysis.",
+    "id": "sded:new:894321573fd1",
+    "date_kind": "classification attestation",
+    "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+    "date_evidence": "D43",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "METER",
+    "descriptive_name": "Four Beats per Bar with Two-Part Beat Subdivision",
+    "historical_name": "Simple Quadruple Meter",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Primary beat and subdivision under the stated metrical analysis.",
+    "id": "sded:new:778291e448cf",
+    "date_kind": "classification attestation",
+    "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+    "date_evidence": "D44",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "METER",
+    "descriptive_name": "Two Beats per Bar with Three-Part Beat Subdivision",
+    "historical_name": "Compound Duple Meter",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "For example, an ordinary compound-duple reading of 6/8.",
+    "id": "sded:new:42bc35f2dab4",
+    "date_kind": "classification attestation",
+    "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+    "date_evidence": "D45",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "METER",
+    "descriptive_name": "Three Beats per Bar with Three-Part Beat Subdivision",
+    "historical_name": "Compound Triple Meter",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "For example, an ordinary compound-triple reading of 9/8.",
+    "id": "sded:new:20680b2f9387",
+    "date_kind": "classification attestation",
+    "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+    "date_evidence": "D46",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "METER",
+    "descriptive_name": "Four Beats per Bar with Three-Part Beat Subdivision",
+    "historical_name": "Compound Quadruple Meter",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "For example, an ordinary compound-quadruple reading of 12/8.",
+    "id": "sded:new:77ef2fc922b1",
+    "date_kind": "classification attestation",
+    "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+    "date_evidence": "D47",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "VOICING AND GUITAR",
+    "descriptive_name": "Root-Third-Seventh Voicing",
+    "historical_name": "Shell Voicing",
+    "established_date": "by 1989",
+    "relation": "scoped replacement",
+    "scope": "Specified jazz teaching use; other shell contents exist. Omitting fifth loses some chord-quality distinctions.",
+    "id": "sded:new:8ac933567e01",
+    "date_kind": "construction attestation through scholarly source",
+    "dated_event": "Dated construction source: Levine’s three-note teaching voicings, identified by McClimon as root–third–seventh shells. This does not date first use of “shell.”",
+    "date_evidence": "D48",
+    "date_sources": [
+      "mcclimon2017"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "VOICING AND GUITAR",
+    "descriptive_name": "Second-from-Top Voice Lowered One Octave",
+    "historical_name": "Drop-2 Voicing",
+    "established_date": "by 1989",
+    "relation": "scoped replacement",
+    "scope": "Operation on a specified close-position arrangement; not scale degree 2.",
+    "id": "sded:new:1bf9abe44014",
+    "date_kind": "construction attestation through scholarly source",
+    "dated_event": "Levine’s block-chord teaching is the dated source identified in the study. Earliest invention is not asserted.",
+    "date_evidence": "D49",
+    "date_sources": [
+      "drop2research"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "VOICING AND GUITAR",
+    "descriptive_name": "Open-Chord-Form Fretboard Mapping",
+    "historical_name": "CAGED System",
+    "established_date": "1974–1975",
+    "relation": "orientation",
+    "scope": "Preserve CAGED as the system's name; C, A, G, E, D identify template forms, not always sounding roots.",
+    "id": "sded:new:8dd22f3a141e",
+    "date_kind": "diagram-to-publication range",
+    "dated_event": "Diagrams dated 1974, published May 1975, document the five-form method. This does not settle priority or date the later CAGED acronym.",
+    "date_evidence": "D50",
+    "date_sources": [
+      "caged1975"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "PERFORMANCE AND PRODUCTION",
+    "descriptive_name": "Pitch Modulation",
+    "historical_name": "Vibrato",
+    "established_date": "c. 1876",
+    "relation": "scoped replacement",
+    "scope": "Acoustic parameter sense; particular instrument techniques and device labels vary.",
+    "id": "sded:new:b210e765916a",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Pitch-modulation sense.",
+    "date_evidence": "D51",
+    "date_sources": [
+      "mw51"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "PERFORMANCE AND PRODUCTION",
+    "descriptive_name": "Amplitude Modulation",
+    "historical_name": "Tremolo",
+    "established_date": "by 1955",
+    "relation": "scoped replacement",
+    "scope": "Electronic effect sense; not repeated-note tremolo.",
+    "id": "sded:new:214a86bebc60",
+    "date_kind": "dated artifact",
+    "dated_event": "A documented June 1955 amplifier provides a firm artifact bound for electronic amplitude tremolo. Pitch-changing “tremolo” patents were excluded.",
+    "date_evidence": "D52",
+    "date_sources": [
+      "tremolux1955",
+      "fendertremolo"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "PERFORMANCE AND PRODUCTION",
+    "descriptive_name": "Rapid Note Repetition",
+    "historical_name": "Tremolo",
+    "established_date": "c. 1801",
+    "relation": "scoped replacement",
+    "scope": "Specified performance-technique sense; split from amplitude-modulation effect.",
+    "id": "sded:new:54c1d787b1c2",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Rapid-reiteration performance sense, not the later electronic effect.",
+    "date_evidence": "D53",
+    "date_sources": [
+      "mw53"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "PERFORMANCE AND PRODUCTION",
+    "descriptive_name": "Take-Composite Editing",
+    "historical_name": "Comping",
+    "established_date": "by 1994",
+    "relation": "scoped replacement",
+    "scope": "Studio editing sense, not accompaniment.",
+    "id": "sded:new:80ab4be691ff",
+    "date_kind": "term attestation",
+    "dated_event": "Contemporary studio-production interview uses “vocal comping” in connection with retakes and constructing recorded performances.",
+    "date_evidence": "D54",
+    "date_sources": [
+      "comp1994"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "PERFORMANCE AND PRODUCTION",
+    "descriptive_name": "Harmonic Accompaniment",
+    "historical_name": "Comping",
+    "established_date": "1949",
+    "relation": "scoped replacement",
+    "scope": "Jazz accompaniment sense, not studio editing.",
+    "id": "sded:new:d2e82836fa75",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Accompaniment verb, separately dated from other noun and verb senses.",
+    "date_evidence": "D55",
+    "date_sources": [
+      "mw55"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "NOTATION",
+    "descriptive_name": "G Clef on the Second Staff Line",
+    "historical_name": "Treble Clef",
+    "established_date": "1667",
+    "relation": "scoped replacement",
+    "scope": "Staff lines counted upward.",
+    "id": "sded:new:a0f4f040100c",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. G-clef staff-position sense.",
+    "date_evidence": "D56",
+    "date_sources": [
+      "mw56"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "NOTATION",
+    "descriptive_name": "F Clef on the Fourth Staff Line",
+    "historical_name": "Bass Clef",
+    "established_date": "1737",
+    "relation": "scoped replacement",
+    "scope": "Staff lines counted upward.",
+    "id": "sded:new:deb84e4fa16d",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. F-clef staff-position sense.",
+    "date_evidence": "D57",
+    "date_sources": [
+      "mw57"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "NOTATION",
+    "descriptive_name": "C Clef on the Third Staff Line",
+    "historical_name": "Alto Clef",
+    "established_date": "1813",
+    "relation": "scoped replacement",
+    "scope": "Staff lines counted upward.",
+    "id": "sded:new:c355865afec5",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. C-clef staff-position sense.",
+    "date_evidence": "D58",
+    "date_sources": [
+      "mw58"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "NOTATION",
+    "descriptive_name": "C Clef on the Fourth Staff Line",
+    "historical_name": "Tenor Clef",
+    "established_date": "1714",
+    "relation": "scoped replacement",
+    "scope": "Staff lines counted upward.",
+    "id": "sded:new:1a9d605992d6",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. C-clef staff-position sense.",
+    "date_evidence": "D59",
+    "date_sources": [
+      "mw59"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "NOTATION",
+    "descriptive_name": "Fixed-Pitch Do Solfège",
+    "historical_name": "Fixed-Do Solfège",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Pitch-reference policy; local accidental-syllable conventions still require specification.",
+    "id": "sded:new:f00fef8b845e",
+    "date_kind": "system attestation",
+    "dated_event": "Fixed-pitch syllables and tonic-relative/do-based-minor usage are documented. Local syllable conventions remain separate.",
+    "date_evidence": "D60",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "NOTATION",
+    "descriptive_name": "Tonic-Relative Do Solfège",
+    "historical_name": "Movable-Do Solfège",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Do-based tonic policy; la-based minor is a separate convention.",
+    "id": "sded:new:8b6c6389b229",
+    "date_kind": "system attestation",
+    "dated_event": "Fixed-pitch syllables and tonic-relative/do-based-minor usage are documented. Local syllable conventions remain separate.",
+    "date_evidence": "D61",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "TUNING AND TRANSFORMATIONS",
+    "descriptive_name": "Twelve Equal Logarithmic Divisions of the Octave",
+    "historical_name": "Twelve-Tone Equal Temperament",
+    "established_date": "1584",
+    "relation": "scoped replacement",
+    "scope": "Equal frequency ratios, not equal frequency differences.",
+    "id": "sded:new:f9df786b639b",
+    "date_kind": "documented calculation",
+    "dated_event": "Zhu Zaiyu’s twelve-pitch numerical calculation, as analyzed by Kuttner. Numerical construction is distinguished from later mathematical definitions and disputed priority.",
+    "date_evidence": "D62",
+    "date_sources": [
+      "kuttner1975"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "TUNING AND TRANSFORMATIONS",
+    "descriptive_name": "Time-Order Reversal",
+    "historical_name": "Retrograde",
+    "established_date": "by 1879",
+    "relation": "scoped replacement",
+    "scope": "Musical sequence operation; specify the sequence being reversed.",
+    "id": "sded:new:f83c8d4f18c1",
+    "date_kind": "construction attestation",
+    "dated_event": "Contemporary dictionary documents reversing musical order. The operation is older; this is an attestation bound.",
+    "date_evidence": "D63",
+    "date_sources": [
+      "grove1879"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "MUSIC",
+    "subdomain": "TUNING AND TRANSFORMATIONS",
+    "descriptive_name": "Pitch-Direction Inversion",
+    "historical_name": "Contrapuntal Inversion",
+    "established_date": "by 1914",
+    "relation": "scoped replacement",
+    "scope": "Melodic inversion sense, with axis and interval policy specified; not invertible counterpoint or chord inversion.",
+    "id": "sded:new:8f3642846566",
+    "date_kind": "construction attestation",
+    "dated_event": "Thematic inversion reverses ascending and descending motion, §147.",
+    "date_evidence": "D64",
+    "date_sources": [
+      "gehrkens1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PROBLEMS AND THOUGHT EXPERIMENTS",
+    "descriptive_name": "Justified-True-Belief Insufficiency Problem",
+    "historical_name": "Gettier Problem",
+    "established_date": "1963",
+    "relation": "orientation",
+    "scope": "1963 dates Gettier's paper, not verified coinage of the later problem label.",
+    "id": "sded:new:82b5b463a814",
+    "date_kind": "publication",
+    "dated_event": "Publication of Gettier’s article; later problem-label coinage is not asserted.",
+    "date_evidence": "D65",
+    "date_sources": [
+      "gettier1963"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PROBLEMS AND THOUGHT EXPERIMENTS",
+    "descriptive_name": "Descriptive-to-Normative Inference Problem",
+    "historical_name": "Is–Ought Problem",
+    "established_date": "1740",
+    "relation": "orientation",
+    "scope": "Specify the logical or justificatory claim and interpretation of Hume.",
+    "id": "sded:new:c78dbf3d71f4",
+    "date_kind": "publication",
+    "dated_event": "Publication of the is/ought passage in Book III; 1739 dates the earlier volumes.",
+    "date_evidence": "D66",
+    "date_sources": [
+      "hume1740",
+      "humeedition"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PROBLEMS AND THOUGHT EXPERIMENTS",
+    "descriptive_name": "Descriptive-to-Normative Inference Problem",
+    "historical_name": "Hume's Guillotine",
+    "established_date": "by 1964",
+    "relation": "orientation",
+    "scope": "Later metaphorical label; no first-use date asserted.",
+    "id": "sded:new:77a02103cf6c",
+    "date_kind": "term attestation through scholarly source",
+    "dated_event": "Black’s paper is the documented source attributed for the later metaphorical label, separate from Hume’s 1740 passage.",
+    "date_evidence": "D67",
+    "date_sources": [
+      "black1964",
+      "guillotine2015"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PROBLEMS AND THOUGHT EXPERIMENTS",
+    "descriptive_name": "Artifact-Identity Problem under Replacement and Reassembly",
+    "historical_name": "Ship of Theseus",
+    "established_date": "1655",
+    "relation": "orientation",
+    "scope": "Retain scenario name; identify the variant under discussion.",
+    "id": "sded:new:492fbfdc4bc4",
+    "date_kind": "variant publication",
+    "dated_event": "Hobbes’s replacement-and-reassembly variant. This does not date the older replacement-only story attributed to Plutarch.",
+    "date_evidence": "D68",
+    "date_sources": [
+      "hobbes1655"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PROBLEMS AND THOUGHT EXPERIMENTS",
+    "descriptive_name": "Symbol-Manipulation and Understanding Thought Experiment",
+    "historical_name": "Chinese Room",
+    "established_date": "1980",
+    "relation": "orientation",
+    "scope": "1980 dates Searle's paper; descriptor does not assert the argument's conclusion.",
+    "id": "sded:new:6efb8de8d4f4",
+    "date_kind": "publication",
+    "dated_event": "Publication of Searle’s thought experiment.",
+    "date_evidence": "D69",
+    "date_sources": [
+      "searle1980"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PRINCIPLES AND POSITIONS",
+    "descriptive_name": "Parsimony Preference under Adequacy Constraints",
+    "historical_name": "Occam's Razor",
+    "established_date": "1852",
+    "relation": "orientation",
+    "scope": "Specify what simplicity measures and what is held equal; not a truth guarantee.",
+    "id": "sded:new:2b407a8ac875",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. English label, not the medieval principle.",
+    "date_evidence": "D70",
+    "date_sources": [
+      "mw70"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PRINCIPLES AND POSITIONS",
+    "descriptive_name": "Mind–Body Substance Dualism in Descartes's Account",
+    "historical_name": "Cartesian Dualism",
+    "established_date": "1641",
+    "relation": "orientation",
+    "scope": "1641 refers to Meditations; wider substance dualism is not an exact historical synonym.",
+    "id": "sded:new:860895dc8ecb",
+    "date_kind": "publication",
+    "dated_event": "Publication of the Meditations; dates the specified account, not the later English label.",
+    "date_evidence": "D71",
+    "date_sources": [
+      "descartes1641"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "PRINCIPLES AND POSITIONS",
+    "descriptive_name": "Realism about Abstract Objects",
+    "historical_name": "Platonism",
+    "established_date": "1934–1935",
+    "relation": "scoped replacement",
+    "scope": "Modern metaphysical usage only; not an exact replacement for Plato's historical philosophy.",
+    "id": "sded:new:f985482d43c4",
+    "date_kind": "lecture-to-publication range",
+    "dated_event": "Modern mathematical Platonism: Bernays’s lecture and publication. This dates an instance of abstract-object realism, not Plato’s ancient philosophy.",
+    "date_evidence": "D72",
+    "date_sources": [
+      "bernays1935"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "LOGIC",
+    "descriptive_name": "Deductively Truth-Preserving Argument",
+    "historical_name": "Valid Argument",
+    "established_date": "by 1946",
+    "relation": "scoped replacement",
+    "scope": "Standard deductive validity sense; does not assert that premises are true.",
+    "id": "sded:new:16611b36a8b0",
+    "date_kind": "sense attestation through scholarly source",
+    "dated_event": "Black’s 1946 glossary documents the specified deductive validity/soundness criteria. Hitchcock supplies the earlier attestation, correcting a 1953 attribution.",
+    "date_evidence": "D73",
+    "date_sources": [
+      "hitchcock1999"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "LOGIC",
+    "descriptive_name": "Valid Argument with True Premises",
+    "historical_name": "Sound Argument",
+    "established_date": "by 1946",
+    "relation": "scoped replacement",
+    "scope": "Argument sense, not metatheoretic soundness of a proof system.",
+    "id": "sded:new:941b14762926",
+    "date_kind": "sense attestation through scholarly source",
+    "dated_event": "Black’s 1946 glossary documents the specified deductive validity/soundness criteria. Hitchcock supplies the earlier attestation, correcting a 1953 attribution.",
+    "date_evidence": "D74",
+    "date_sources": [
+      "hitchcock1999"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "EPISTEMIC WARRANT",
+    "descriptive_name": "Justification Independent of Experience",
+    "historical_name": "A Priori Justification",
+    "established_date": "1781–1787",
+    "relation": "scoped replacement",
+    "scope": "Standard epistemic distinction; concept acquisition may still involve experience.",
+    "id": "sded:new:e89c1711f945",
+    "date_kind": "edition range",
+    "dated_event": "The Critique’s first/second-edition formulation of experience-independent and empirical knowledge. Earlier Latin uses do not alone date this epistemic sense.",
+    "date_evidence": "D75",
+    "date_sources": [
+      "kant1787"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "PHILOSOPHY",
+    "subdomain": "EPISTEMIC WARRANT",
+    "descriptive_name": "Justification Dependent on Experience",
+    "historical_name": "A Posteriori Justification",
+    "established_date": "1781–1787",
+    "relation": "scoped replacement",
+    "scope": "Epistemic basis, not a simple chronological before/after distinction.",
+    "id": "sded:new:44e2047f3fef",
+    "date_kind": "edition range",
+    "dated_event": "The Critique’s first/second-edition formulation of experience-independent and empirical knowledge. Earlier Latin uses do not alone date this epistemic sense.",
+    "date_evidence": "D76",
+    "date_sources": [
+      "kant1787"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "RHETORIC",
+    "descriptive_name": "Successive-Unit Initial Repetition",
+    "historical_name": "Anaphora",
+    "established_date": "before 1101 CE",
+    "relation": "scoped replacement",
+    "scope": "Rhetorical repetition, not linguistic reference.",
+    "id": "sded:new:637e8df42696",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Rhetorical sense; dictionary gives “before the 12th century.”",
+    "date_evidence": "D77",
+    "date_sources": [
+      "mw77"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "RHETORIC",
+    "descriptive_name": "Successive-Unit Final Repetition",
+    "historical_name": "Epistrophe",
+    "established_date": "c. 1584",
+    "relation": "scoped replacement",
+    "scope": "Rhetorical repetition at the ends of successive units.",
+    "id": "sded:new:1d09d70a4043",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Rhetorical repetition sense.",
+    "date_evidence": "D78",
+    "date_sources": [
+      "mw78"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "LITERATURE",
+    "descriptive_name": "Verse without Regular Meter",
+    "historical_name": "Free Verse",
+    "established_date": "1813",
+    "relation": "scoped replacement",
+    "scope": "Orientation to the metrical criterion; does not mean verse without form or rhythm.",
+    "id": "sded:new:6c3cff937c5f",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Metrical sense.",
+    "date_evidence": "D79",
+    "date_sources": [
+      "mw79"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "VISUAL ART",
+    "descriptive_name": "Space around and between Focal Forms",
+    "historical_name": "Negative Space",
+    "established_date": "by 1979",
+    "relation": "orientation",
+    "scope": "Instructional gloss; keep figure–ground ambiguity and compositional uses visible.",
+    "id": "sded:new:b1252c12733c",
+    "date_kind": "term attestation through edition catalogue",
+    "dated_event": "The dated first-edition chapter title documents the instructional term. This is not a claim that artists first used surrounding space in 1979.",
+    "date_evidence": "D80",
+    "date_sources": [
+      "edwards1979"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "THEATRE",
+    "descriptive_name": "Single-Speaker Extended Speech",
+    "historical_name": "Monologue",
+    "established_date": "1549",
+    "relation": "scoped replacement",
+    "scope": "Dramatic speech configuration; does not specify audience or dramatic function.",
+    "id": "sded:new:8cab50155794",
+    "date_kind": "lexicographic first-known-use report",
+    "dated_event": "Dictionary-reported first known English use. Dramatic speech sense.",
+    "date_evidence": "D81",
+    "date_sources": [
+      "mw81"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "ARCHITECTURE",
+    "descriptive_name": "Pointed-Arch and Rib-Vault Architectural Tradition",
+    "historical_name": "Gothic Architecture",
+    "established_date": "1140–1144",
+    "relation": "orientation",
+    "scope": "Selected identifying features only; not an exact substitute for the historical classification.",
+    "id": "sded:new:5ce66452ed28",
+    "date_kind": "architectural development range",
+    "dated_event": "Construction-to-dedication range of the Saint-Denis choir as a formative Gothic example. The later label is not dated to the twelfth century.",
+    "date_evidence": "D82",
+    "date_sources": [
+      "saintdenis"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "MUSIC CULTURE",
+    "descriptive_name": "Río de la Plata Music-Dance Tradition",
+    "historical_name": "Tango",
+    "established_date": "c. 1875–1900",
+    "relation": "orientation",
+    "scope": "Retain tango as the cultural name; the descriptor is broader and incomplete.",
+    "id": "sded:new:e68273581bdd",
+    "date_kind": "historical development range",
+    "dated_event": "Late-nineteenth-century formation in the Río de la Plata. Approximate period, not an exact birth date or exclusive national claim.",
+    "date_evidence": "D83",
+    "date_sources": [
+      "tangohistory"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "MUSIC CULTURE",
+    "descriptive_name": "Andalusian Cante-Baile-Toque Tradition",
+    "historical_name": "Flamenco",
+    "established_date": "early 1800s",
+    "relation": "orientation",
+    "scope": "Retain flamenco; recognize community histories and the essential Gitano/Roma contribution.",
+    "id": "sded:new:8a9359524a2f",
+    "date_kind": "historical development range",
+    "dated_event": "Nomination’s stated emergence period. Preserve the source’s broad interval rather than invent precise endpoints.",
+    "date_evidence": "D84",
+    "date_sources": [
+      "flamenco2010"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  },
+  {
+    "domain": "ARTS AND HUMANITIES",
+    "subdomain": "INSTRUMENT CLASSIFICATION",
+    "descriptive_name": "Sound-Production Instrument Classification",
+    "historical_name": "Hornbostel-Sachs Classification",
+    "established_date": "1914",
+    "relation": "orientation",
+    "scope": "Retain the system name and specify edition; not all sound-production classifications are this system.",
+    "id": "sded:new:68c9b28ad236",
+    "date_kind": "publication",
+    "dated_event": "Publication of the original classification; later revisions require their own edition dates.",
+    "date_evidence": "D85",
+    "date_sources": [
+      "hs1914"
+    ],
+    "status": "proposed addition",
+    "trademark_marker_required": false,
+    "source": "SDED 2.0 case studies; naming expansion prepared in this revision"
+  }
+]

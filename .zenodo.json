@@ -1,0 +1,36 @@
+{
+  "title": "SDED 2.0: Specification and Expanded Vocabulary",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "This edition restores 696 prior vocabulary mappings and adds 85 proposed name pairs in compact domain and subdomain libraries. It includes a vocabulary-only reference and the extended music, philosophy, and arts-and-humanities framework. Terminology is an interface through which people retrieve, distinguish, construct, and transmit knowledge. Its quality cannot be evaluated by brevity or historical familiarity alone. This paper extends Substantive-Description Eponym Deprecation (SDED) from surname-based naming reform to a broader analysis of opaque labels, hidden defaults, category migration, structural asymmetry, and misleading compression in the arts and humanities. It proposes an audience-relative protocol that separates concept identity, descriptive name, conventional alias, compact symbol, contextual function, and provenance. Music supplies the principal case study: seventh-chord nomenclature, suspensions, inversions, modes, meter, and instrument classifications expose failures that are not reducible to eponymy. Philosophy supplies a second test, where descriptions can clarify arguments but can also prejudge contested conclusions or erase historically specific positions. A wider humanities survey identifies cases for retention, supplementation, disambiguation, and replacement. Controlled verbosity is treated as a testable design hypothesis: explicit components may improve reconstruction and error detection, while increasing reading and coordination costs. The framework incorporates cultural authority, backward compatibility, and multilingual scope rather than imposing universal renaming. It provides an intervention taxonomy, an auditable evaluation profile, and experiments comparing conventional, descriptive, and layered terminology. Its contribution is a method for evaluating naming systems and governing changes; it does not claim that proposed labels have already demonstrated learning benefits.",
+  "creators": [
+    {
+      "name": "Wijaya, Brian"
+    }
+  ],
+  "version": "2.0",
+  "publication_date": "2026-09-08",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "terminology",
+    "music theory",
+    "philosophy",
+    "knowledge representation",
+    "self-documenting terminology",
+    "SDED"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17418489",
+      "relation": "isNewVersionOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/SignalAssembly/SDED",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Conceptual framework and research agenda. Proposed descriptors are not empirically validated. TM styling is optional. This metadata file does not constitute a Zenodo deposit."
+}

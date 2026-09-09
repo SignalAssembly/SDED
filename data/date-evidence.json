@@ -1,0 +1,1412 @@
+{
+  "review_date": "2026-09-08",
+  "policy": "Every indexed mapping must contain a calendar date, dated period, or documented bound. Dates identify their event; an attestation bound is not an invention claim.",
+  "sources": {
+    "wylde1872": {
+      "title": "Henry Wylde, Harmony and the Science of Music (1872)",
+      "url": "https://books.google.com/books?id=TV_v18DaRzkC",
+      "locator": "Title page; printed pp. 104–106, especially the complete seventh-chord construction list; pp. 123, 128, 146. Facsimile also available from Wikimedia Commons, Internet Archive item cu31924021751635."
+    },
+    "prout1889": {
+      "title": "Ebenezer Prout, Harmony: Its Theory and Practice (1889)",
+      "url": "https://en.wikisource.org/wiki/Harmony:_Its_Theory_and_Practice",
+      "locator": "Preface dated June 1889; §§197, 205–215, 275–276, 324, 457, 461, 468. Complete OCR: https://archive.org/download/harmonyitstheory00prouiala/harmonyitstheory00prouiala_djvu.txt"
+    },
+    "denyer1982": {
+      "title": "Ralph Denyer, The Guitar Handbook (1982)",
+      "url": "https://www.scribd.com/document/997652683/OceanofPDF-com-the-Guitar-Handbook-Ralph-Denyer",
+      "locator": "Scanned Pan Books edition: publication page says 1982; chord-construction discussion, printed pp. 130–131. Consult the book itself; the hosting page has an unrelated automated summary."
+    },
+    "rooksby2000": {
+      "title": "Rikky Rooksby, How to Write Songs on Guitar (2000)",
+      "url": "https://studylibid.com/doc/4547337/rikky-rooksby---how-to-write-songs-on-guitar--a-guitar-pl...",
+      "locator": "First British edition, Balafon Books, 2000; digitized pp. 22–23, “Suspended Second Chords.”"
+    },
+    "persichetti1961": {
+      "title": "Vincent Persichetti, Twentieth-Century Harmony (1961)",
+      "url": "https://hugoribeiro.com.br/area-restrita/Persichetti-Twentieth_Century_Harmony.pdf",
+      "locator": "Printed pp. 31–33, example 2-1, modern modes; p. 77, example 3-21, ninth-chord constructions. The scan was inspected visually."
+    },
+    "mw15": {
+      "title": "Merriam-Webster: Tonic",
+      "url": "https://www.merriam-webster.com/dictionary/tonic",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw16": {
+      "title": "Merriam-Webster: Supertonic",
+      "url": "https://www.merriam-webster.com/dictionary/supertonic",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw17": {
+      "title": "Merriam-Webster: Mediant",
+      "url": "https://www.merriam-webster.com/dictionary/mediant",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw18": {
+      "title": "Merriam-Webster: Subdominant",
+      "url": "https://www.merriam-webster.com/dictionary/subdominant",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw19": {
+      "title": "Merriam-Webster: Dominant",
+      "url": "https://www.merriam-webster.com/dictionary/dominant",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw20": {
+      "title": "Merriam-Webster: Submediant",
+      "url": "https://www.merriam-webster.com/dictionary/submediant",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw21": {
+      "title": "Merriam-Webster: Leading Tone",
+      "url": "https://www.merriam-webster.com/dictionary/leading%20tone",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw51": {
+      "title": "Merriam-Webster: Vibrato",
+      "url": "https://www.merriam-webster.com/dictionary/vibrato",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw53": {
+      "title": "Merriam-Webster: Tremolo",
+      "url": "https://www.merriam-webster.com/dictionary/tremolo",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw55": {
+      "title": "Merriam-Webster: Comping",
+      "url": "https://www.merriam-webster.com/dictionary/comp",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw56": {
+      "title": "Merriam-Webster: Treble Clef",
+      "url": "https://www.merriam-webster.com/dictionary/treble%20clef",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw57": {
+      "title": "Merriam-Webster: Bass Clef",
+      "url": "https://www.merriam-webster.com/dictionary/bass%20clef",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw58": {
+      "title": "Merriam-Webster: Alto Clef",
+      "url": "https://www.merriam-webster.com/dictionary/alto%20clef",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw59": {
+      "title": "Merriam-Webster: Tenor Clef",
+      "url": "https://www.merriam-webster.com/dictionary/tenor%20clef",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw70": {
+      "title": "Merriam-Webster: Occam's Razor",
+      "url": "https://www.merriam-webster.com/dictionary/Occam%27s%20razor",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw77": {
+      "title": "Merriam-Webster: Anaphora",
+      "url": "https://www.merriam-webster.com/dictionary/anaphora",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw78": {
+      "title": "Merriam-Webster: Epistrophe",
+      "url": "https://www.merriam-webster.com/dictionary/epistrophe",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw79": {
+      "title": "Merriam-Webster: Free Verse",
+      "url": "https://www.merriam-webster.com/dictionary/free%20verse",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "mw81": {
+      "title": "Merriam-Webster: Monologue",
+      "url": "https://www.merriam-webster.com/dictionary/monologue",
+      "locator": "“First Known Use” and the associated sense; consulted September 8, 2026."
+    },
+    "tagg2012": {
+      "title": "Philip Tagg, Everyday Tonality, version 1.3 (2012; first edition 2009)",
+      "url": "https://www.tagg.org/html/FFabBk.htm",
+      "locator": "Author-hosted full text; version dated April 6, 2012; chromatic scale table and “Subtonic or leading note?” discussion, printed pp. 34–36."
+    },
+    "gehrkens1914": {
+      "title": "Karl W. Gehrkens, Music Notation and Terminology (1914)",
+      "url": "https://www.gutenberg.org/files/19499/19499-h/19499-h.htm",
+      "locator": "Publication page; §§86–87 and 99; footnote 6, discussion of do-based minor and Appendix D; §147."
+    },
+    "levine1995": {
+      "title": "Mark Levine, The Jazz Theory Book (1995)",
+      "url": "https://www.shermusic.com/products/the-jazz-theory-book",
+      "locator": "Chapter 3, melodic-minor harmony, pp. 55–70. Publication and chapter coverage are also documented in Robert Rawlins’s contemporary scholarly review, Music Theory Online 6.1 (2000)."
+    },
+    "rawlins2000": {
+      "title": "Robert Rawlins, review of The Jazz Theory Book, Music Theory Online 6.1 (2000)",
+      "url": "https://www.mtosmt.org/classic/mto.00.6.1/mto.00.6.1.rawlins.html",
+      "locator": "Bibliographic heading and discussion of Chapter 3, melodic minor."
+    },
+    "mcclimon2017": {
+      "title": "Michael McClimon, “Transformations in Tonal Jazz,” Music Theory Online 23.1 (2017)",
+      "url": "https://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html",
+      "locator": "Footnote 13: identifies root–third–seventh shell voicings and cites Mark Levine, The Jazz Piano Book (1989), pp. 17–22."
+    },
+    "drop2research": {
+      "title": "Jasse Varpama, Interpretation and Harmonization in Piano Arrangements (2019)",
+      "url": "https://www.theseus.fi/bitstream/handle/10024/170503/Varpama_Jasse.pdf?isAllowed=y&sequence=2",
+      "locator": "Section 6.4.2, Drop 2; cites Mark Levine, The Jazz Piano Book (1989), block-chord chapter, pp. 185 onward."
+    },
+    "caged1975": {
+      "title": "Jon Sievert, “Blue Bear Waltzes,” Guitar Player, May 1975",
+      "url": "https://www.castaliapub.com/wp-content/uploads/2017/12/Keith-Guitar-article-1.pdf",
+      "locator": "Printed pp. 26, 30, 41; Keith Allen’s five chord forms and connected fretboard diagrams, themselves dated 1974. Scan visually inspected."
+    },
+    "tremolux1955": {
+      "title": "Retrofret, inspected Fender Tremolux 5E9, serial 0093",
+      "url": "https://retrofret.com/products/fender-tremolux-model-5e9-tube-amplifier-1955-10792",
+      "locator": "Original amplifier inspection: tube-chart code EF (June 1955), circuit description, and photographs. This is dated artifact evidence, not a claim of earliest invention."
+    },
+    "fendertremolo": {
+      "title": "Jeff Owens, Fender: Pitch or Volume? The Difference Between Tremolo and Vibrato",
+      "url": "https://www.fender.com/articles/techniques/pitch-or-volume-the-difference-between-tremolo-and-vibrato",
+      "locator": "Manufacturer’s explanation distinguishing amplifier amplitude variation from mechanical string-pitch variation."
+    },
+    "comp1994": {
+      "title": "Electronic Musician, December 1994",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Electronic-Musician/1994/Electronic-Musician-1994-12.pdf",
+      "locator": "“The Gender Gap,” interview discussion of studio production, printed p. 77: contemporary use of “vocal comping.”"
+    },
+    "kuttner1975": {
+      "title": "Fritz A. Kuttner, “Prince Chu Tsai-Yü’s Life and Work,” Ethnomusicology 19.2 (1975), 163–206",
+      "url": "https://www.jstor.org/stable/850355",
+      "locator": "Original historical research, especially pp. 163–167 and calculation appendix; searchable reproduction at https://www.scribd.com/document/414069286/Chinese-Equal-Temperament."
+    },
+    "grove1879": {
+      "title": "Frederick Ouseley, “Cancrizans,” Grove’s Dictionary of Music and Musicians, vol. 1 (1879)",
+      "url": "https://en.wikisource.org/wiki/A_Dictionary_of_Music_and_Musicians/Cancrizans",
+      "locator": "Vol. 1, p. 298: backwards canons and retrograde-inverse construction; musical examples included."
+    },
+    "gettier1963": {
+      "title": "Edmund Gettier, “Is Justified True Belief Knowledge?” Analysis 23.6 (1963), 121–123",
+      "url": "https://academic.oup.com/analysis/article-abstract/23/6/121/109949",
+      "locator": "Original article and journal publication metadata."
+    },
+    "hume1740": {
+      "title": "David Hume, A Treatise of Human Nature, Book III (1740)",
+      "url": "https://www.earlymoderntexts.com/authors/hume",
+      "locator": "Book III, Part I, §1, final is/ought passage; volume-specific year confirmed by National Library of Ireland catalogue record vtls000466417."
+    },
+    "humeedition": {
+      "title": "National Library of Ireland, Treatise of Human Nature first-edition record",
+      "url": "https://catalogue.nli.ie/Record/vtls000466417/TOC",
+      "locator": "Contents distinguish Books I–II (1739) from Book III (1740)."
+    },
+    "black1964": {
+      "title": "Max Black, “The Gap Between ‘Is’ and ‘Should’,” Philosophical Review 73.2 (1964), 165–181",
+      "url": "https://www.jstor.org/stable/2183334",
+      "locator": "Original paper; guillotine label attributed to this paper in later research, including “Giving Up Hume’s Guillotine” (2015), DOI 10.1080/00048402.2014.948894."
+    },
+    "guillotine2015": {
+      "title": "“Giving Up Hume’s Guillotine,” Australasian Journal of Philosophy 93.1 (2015)",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00048402.2014.948894",
+      "locator": "Scholarly attribution of the label to Black (1964)."
+    },
+    "hobbes1655": {
+      "title": "Thomas Hobbes, De Corpore (1655), Part II, chapter XI",
+      "url": "https://rintintin.colorado.edu/~vancecd/phil1020/Hobbes.pdf",
+      "locator": "“On Sameness and Identity,” reassembly of the discarded planks in the Theseus-ship example."
+    },
+    "searle1980": {
+      "title": "John Searle, “Minds, Brains, and Programs” (1980)",
+      "url": "https://zoo.cs.yale.edu/classes/cs458/materials/minds-brains-and-programs.pdf",
+      "locator": "Behavioral and Brain Sciences 3, 417–457; original Chinese-room scenario."
+    },
+    "descartes1641": {
+      "title": "René Descartes, Meditations on First Philosophy (1641)",
+      "url": "https://www.earlymoderntexts.com/authors/descartes",
+      "locator": "Meditation VI, real distinction of mind and body; publication year shown on author’s works page."
+    },
+    "bernays1935": {
+      "title": "Paul Bernays, “On Platonism in Mathematics” (1935; lecture 1934)",
+      "url": "https://www.phil.cmu.edu/projects/bernays/Pdf/platonism.pdf",
+      "locator": "Charles Parsons translation; opening bibliographic note identifies June 18, 1934 lecture and 1935 publication."
+    },
+    "hitchcock1999": {
+      "title": "David Hitchcock, “The origin of the technical use of ‘sound argument’: a postscript,” Informal Logic 19 (1999), 213–214",
+      "url": "https://informallogic.ca/index.php/informal_logic/article/download/2329/1772",
+      "locator": "Original historical investigation reproduces Max Black, Critical Thinking (1946), glossary pp. 387–388, and distinguishes Copi’s 1953 formulation."
+    },
+    "kant1787": {
+      "title": "Immanuel Kant, Critique of Pure Reason (1781, 1787)",
+      "url": "https://www.earlymoderntexts.com/authors/kant",
+      "locator": "Prefaces and Introduction, especially B1–B3; first- and second-edition dates are identified by the text provider."
+    },
+    "edwards1979": {
+      "title": "Betty Edwards, Drawing on the Right Side of the Brain (1979)",
+      "url": "https://lib.ccsdetroit.edu/bib/6828",
+      "locator": "Library record for the 1979 edition with the book’s contents: chapter 7, “Perceiving the shape of a space: the positive aspects of negative space.”"
+    },
+    "saintdenis": {
+      "title": "The Metropolitan Museum of Art, The Royal Abbey of Saint-Denis in the Time of Abbot Suger (1981)",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Royal_Abbey_of_Saint_Denis_in_the_Time_of_Abbot_Suger_1122_1151.pdf",
+      "locator": "Museum’s historical research, printed p. 19: choir begun July 13, 1140 and dedicated June 14, 1144; identifies its early Gothic construction."
+    },
+    "tangohistory": {
+      "title": "Buenos Aires cultural heritage research, Temas de Patrimonio Cultural 25",
+      "url": "https://buenosaires.gob.ar/areas/cultura/cpphc/archivos/libros/Temas_25.pdf",
+      "locator": "Historical discussion places the first tangos in the last quarter of the nineteenth century; this is a broad development period."
+    },
+    "flamenco2010": {
+      "title": "Spain, Flamenco nomination to UNESCO, file 00363 (2010)",
+      "url": "https://ich.unesco.org/doc/src/07533-EN.pdf",
+      "locator": "Nomination form, printed p. 3: emergence in Andalusia in the early nineteenth century, with earlier roots and wider regional connections."
+    },
+    "hs1914": {
+      "title": "Erich M. von Hornbostel and Curt Sachs, Systematik der Musikinstrumente (1914)",
+      "url": "https://imslp.org/wiki/Systematik_der_Musikinstrumente_(Hornbostel%2C_Erich_von)",
+      "locator": "Original publication: Zeitschrift für Ethnologie 46, 553–590; first-publication metadata and scan."
+    },
+    "noether1918": {
+      "title": "Emmy Noether, Invariante Variationsprobleme (1918)",
+      "url": "https://de.wikisource.org/wiki/Invariante_Variationsprobleme",
+      "locator": "Original article, Göttingen Nachrichten, 1918, pp. 235–257; presentation dated July 26, 1918."
+    },
+    "si1960": {
+      "title": "BIPM, Resolution 12 of the 11th CGPM (1960)",
+      "url": "https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-12",
+      "locator": "Derived-units table: tesla, magnetic flux density, Wb/m². Dates SI adoption rather than Tesla’s work."
+    },
+    "electrical1893": {
+      "title": "National Academy of Sciences, The End of the Nineteenth Century",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK217882/",
+      "locator": "Institutional history: Chicago congress adopts the international electrical units in 1893; U.S. law follows in July 1894."
+    },
+    "electrical1894": {
+      "title": "Congressional Record, 1894: Units of Electrical Measure",
+      "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1894-pt6-v26/pdf/GPO-CRECB-1894-pt6-v26-16.pdf",
+      "locator": "Printed p. 5987: H.R. 6500 enumerates the ohm, ampere, volt, farad, and henry with definitions."
+    },
+    "iec1930": {
+      "title": "L. Ruppert, History of the International Electrotechnical Commission (1956)",
+      "url": "https://storage-iecwebsite-prd-iec-ch.s3.eu-west-1.amazonaws.com/2020-01/content/media/files/iec-history-1906-1956.pdf",
+      "locator": "Printed pp. 4–5: naming recommendations from Stockholm (1930) and Scheveningen (1935), including hertz and practical weber. Scan visually inspected."
+    },
+    "perrin1909": {
+      "title": "Jean Perrin, Mouvement brownien et grandeurs moléculaires (1909)",
+      "url": "https://fr.wikisource.org/wiki/Mouvement_brownien_et_grandeurs_mol%C3%A9culaires",
+      "locator": "1909 text uses and estimates the Avogadro constant; distinct from Avogadro’s 1811 equal-volume hypothesis."
+    }
+  },
+  "new_entries": [
+    {
+      "id": "sded:new:e9be83090cdf",
+      "historical_name": "Major Seventh Chord",
+      "descriptive_name": "Major Triad with Major Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:8f1aed263508",
+      "historical_name": "Dominant Seventh Chord",
+      "descriptive_name": "Major Triad with Minor Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:092fa9d3300c",
+      "historical_name": "Minor Seventh Chord",
+      "descriptive_name": "Minor Triad with Minor Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:eb0359c0d7f6",
+      "historical_name": "Minor-Major Seventh Chord",
+      "descriptive_name": "Minor Triad with Major Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:62c728f009b1",
+      "historical_name": "Half-Diminished Seventh Chord",
+      "descriptive_name": "Diminished Triad with Minor Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:ed905b0a1e4b",
+      "historical_name": "Fully Diminished Seventh Chord",
+      "descriptive_name": "Diminished Triad with Diminished Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:ad21273e49dc",
+      "historical_name": "Augmented Seventh Chord",
+      "descriptive_name": "Augmented Triad with Minor Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:240ddcb3ec1d",
+      "historical_name": "Augmented Major Seventh Chord",
+      "descriptive_name": "Augmented Triad with Major Seventh",
+      "established_date": "by 1872",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified triad-plus-seventh construction is listed in Wylde, pp. 105–106. This dates the construction, not every modern label.",
+      "sources": [
+        "wylde1872"
+      ]
+    },
+    {
+      "id": "sded:new:d42e2f03bdde",
+      "historical_name": "Dominant Ninth Chord",
+      "descriptive_name": "Major Triad with Minor Seventh and Major Ninth",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Major ninth above a dominant seventh: §324. The date does not establish modern function-independent terminology.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:7b6885ff6631",
+      "historical_name": "Added-Ninth Major Chord",
+      "descriptive_name": "Major Triad with Added Major Ninth",
+      "established_date": "by 1982",
+      "date_kind": "construction attestation",
+      "dated_event": "The book explicitly spells added ninth as root, third, fifth, and second/ninth, without a seventh.",
+      "sources": [
+        "denyer1982"
+      ]
+    },
+    {
+      "id": "sded:new:e37fe934ca57",
+      "historical_name": "Major Ninth Chord",
+      "descriptive_name": "Major Triad with Major Seventh and Major Ninth",
+      "established_date": "by 1961",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified ninth-chord structure occurs in the exhaustive table, example 3-21.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:ef1416076801",
+      "historical_name": "Minor Ninth Chord",
+      "descriptive_name": "Minor Triad with Minor Seventh and Major Ninth",
+      "established_date": "by 1961",
+      "date_kind": "construction attestation",
+      "dated_event": "The specified ninth-chord structure occurs in the exhaustive table, example 3-21.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:9e2ef0a228e7",
+      "historical_name": "Suspended-Fourth Chord",
+      "descriptive_name": "Root-Fourth-Fifth Chord",
+      "established_date": "by 1982",
+      "date_kind": "construction attestation",
+      "dated_event": "The book defines suspended fourth by replacing the third with the fourth.",
+      "sources": [
+        "denyer1982"
+      ]
+    },
+    {
+      "id": "sded:new:36d6eb6b565d",
+      "historical_name": "Suspended-Second Chord",
+      "descriptive_name": "Root-Second-Fifth Chord",
+      "established_date": "by 2000",
+      "date_kind": "construction attestation",
+      "dated_event": "Explicit sus2 construction, illustrated as C–D–G. This is a documented bound, not its invention year.",
+      "sources": [
+        "rooksby2000"
+      ]
+    },
+    {
+      "id": "sded:new:2febb65aff59",
+      "historical_name": "Tonic",
+      "descriptive_name": "Tonic-Relative First Degree",
+      "established_date": "1797",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Music noun; do not use the adjective’s 1649 date.",
+      "sources": [
+        "mw15"
+      ]
+    },
+    {
+      "id": "sded:new:446fa14707dc",
+      "historical_name": "Supertonic",
+      "descriptive_name": "Tonic-Relative Second Degree",
+      "established_date": "1806",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+      "sources": [
+        "mw16"
+      ]
+    },
+    {
+      "id": "sded:new:5ed93da230b3",
+      "historical_name": "Mediant",
+      "descriptive_name": "Tonic-Relative Third Degree",
+      "established_date": "1721",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+      "sources": [
+        "mw17"
+      ]
+    },
+    {
+      "id": "sded:new:ea36e5399a3e",
+      "historical_name": "Subdominant",
+      "descriptive_name": "Tonic-Relative Fourth Degree",
+      "established_date": "1775",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+      "sources": [
+        "mw18"
+      ]
+    },
+    {
+      "id": "sded:new:f719d554b422",
+      "historical_name": "Dominant",
+      "descriptive_name": "Tonic-Relative Fifth Degree",
+      "established_date": "1819",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Music noun; do not use the adjective’s 1532 date.",
+      "sources": [
+        "mw19"
+      ]
+    },
+    {
+      "id": "sded:new:fcffa6027d74",
+      "historical_name": "Submediant",
+      "descriptive_name": "Tonic-Relative Sixth Degree",
+      "established_date": "c. 1775",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Scale-degree noun.",
+      "sources": [
+        "mw20"
+      ]
+    },
+    {
+      "id": "sded:new:6a78cc6188e3",
+      "historical_name": "Leading Tone",
+      "descriptive_name": "Seventh Degree a Semitone Below Tonic",
+      "established_date": "c. 1889",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Semitone-below-tonic sense.",
+      "sources": [
+        "mw21"
+      ]
+    },
+    {
+      "id": "sded:new:bf94e26e7b65",
+      "historical_name": "Subtonic",
+      "descriptive_name": "Seventh Degree a Whole Tone Below Tonic",
+      "established_date": "by 2012",
+      "date_kind": "sense attestation",
+      "dated_event": "The scale table explicitly labels the minor seventh “subtonic.” The 1817 dictionary date was rejected because its documented sense is leading tone.",
+      "sources": [
+        "tagg2012"
+      ]
+    },
+    {
+      "id": "sded:new:27a3fc5bf8b1",
+      "historical_name": "Root Position",
+      "descriptive_name": "Root-in-Bass Position",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:d9d91ca69867",
+      "historical_name": "First Inversion",
+      "descriptive_name": "Third-in-Bass Inversion",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:8427383a905a",
+      "historical_name": "Second Inversion",
+      "descriptive_name": "Fifth-in-Bass Inversion",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:7bbaa631cc23",
+      "historical_name": "Third Inversion",
+      "descriptive_name": "Seventh-in-Bass Inversion",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Root and inversion positions explicitly taught in §§197, 205–215.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:2f9584c23c9d",
+      "historical_name": "Neapolitan Chord",
+      "descriptive_name": "Lowered-Second-Degree Major Triad",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Lowered-second major triad and its named first inversion: §§275–276.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:dd987babd498",
+      "historical_name": "Neapolitan Sixth",
+      "descriptive_name": "Lowered-Second-Degree Major Triad with Third in Bass",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Lowered-second major triad and its named first inversion: §§275–276.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:b4abec0f64a8",
+      "historical_name": "Italian Augmented-Sixth Chord",
+      "descriptive_name": "Augmented-Sixth Sonority with Tonic",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Named augmented-sixth forms and their contents: §§457, 461, 468.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:f4a8afefab0b",
+      "historical_name": "French Augmented-Sixth Chord",
+      "descriptive_name": "Augmented-Sixth Sonority with Tonic and Second Degree",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Named augmented-sixth forms and their contents: §§457, 461, 468.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:eb68698faa2a",
+      "historical_name": "German Augmented-Sixth Chord",
+      "descriptive_name": "Augmented-Sixth Sonority with Tonic and Lowered Third Degree",
+      "established_date": "by 1889",
+      "date_kind": "construction attestation",
+      "dated_event": "Named augmented-sixth forms and their contents: §§457, 461, 468.",
+      "sources": [
+        "prout1889"
+      ]
+    },
+    {
+      "id": "sded:new:a680ed65cb2a",
+      "historical_name": "Ionian Mode",
+      "descriptive_name": "Major Diatonic Mode",
+      "established_date": "by 1961",
+      "date_kind": "sense attestation",
+      "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:82ab732993a3",
+      "historical_name": "Dorian Mode",
+      "descriptive_name": "Diatonic Mode with Lowered Third and Seventh",
+      "established_date": "by 1961",
+      "date_kind": "sense attestation",
+      "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:931f5c718605",
+      "historical_name": "Phrygian Mode",
+      "descriptive_name": "Diatonic Mode with Lowered Second, Third, Sixth, and Seventh",
+      "established_date": "by 1961",
+      "date_kind": "sense attestation",
+      "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:554f0bfa5dd7",
+      "historical_name": "Lydian Mode",
+      "descriptive_name": "Diatonic Mode with Raised Fourth",
+      "established_date": "by 1961",
+      "date_kind": "sense attestation",
+      "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:3c45789b8602",
+      "historical_name": "Mixolydian Mode",
+      "descriptive_name": "Diatonic Mode with Lowered Seventh",
+      "established_date": "by 1961",
+      "date_kind": "sense attestation",
+      "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:7709f480d473",
+      "historical_name": "Aeolian Mode",
+      "descriptive_name": "Diatonic Mode with Lowered Third, Sixth, and Seventh",
+      "established_date": "by 1961",
+      "date_kind": "sense attestation",
+      "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:c363dc7d33eb",
+      "historical_name": "Locrian Mode",
+      "descriptive_name": "Diatonic Mode with Lowered Second, Third, Fifth, Sixth, and Seventh",
+      "established_date": "by 1961",
+      "date_kind": "sense attestation",
+      "dated_event": "Modern tonic-oriented modal pattern is explicit in example 2-1. Ancient or medieval uses of the name are separate.",
+      "sources": [
+        "persichetti1961"
+      ]
+    },
+    {
+      "id": "sded:new:76dc8227c87f",
+      "historical_name": "Harmonic Minor Scale",
+      "descriptive_name": "Natural-Minor Pattern with Raised Seventh",
+      "established_date": "by 1914",
+      "date_kind": "construction attestation",
+      "dated_event": "Named harmonic and ascending melodic minor forms, §§86–87.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:7bf65c739fe5",
+      "historical_name": "Ascending Melodic Minor Scale",
+      "descriptive_name": "Natural-Minor Pattern with Raised Sixth and Seventh",
+      "established_date": "by 1914",
+      "date_kind": "construction attestation",
+      "dated_event": "Named harmonic and ascending melodic minor forms, §§86–87.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:8d7ee56a2044",
+      "historical_name": "Jazz Melodic Minor Scale",
+      "descriptive_name": "Natural-Minor Pattern with Raised Sixth and Seventh in Both Directions",
+      "established_date": "by 1995",
+      "date_kind": "system attestation",
+      "dated_event": "Levine’s jazz melodic-minor treatment supplies a dated teaching source; it does not date the first jazz performance of the scale.",
+      "sources": [
+        "levine1995",
+        "rawlins2000"
+      ]
+    },
+    {
+      "id": "sded:new:12de962f834e",
+      "historical_name": "Simple Duple Meter",
+      "descriptive_name": "Two Beats per Bar with Two-Part Beat Subdivision",
+      "established_date": "by 1914",
+      "date_kind": "classification attestation",
+      "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:894321573fd1",
+      "historical_name": "Simple Triple Meter",
+      "descriptive_name": "Three Beats per Bar with Two-Part Beat Subdivision",
+      "established_date": "by 1914",
+      "date_kind": "classification attestation",
+      "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:778291e448cf",
+      "historical_name": "Simple Quadruple Meter",
+      "descriptive_name": "Four Beats per Bar with Two-Part Beat Subdivision",
+      "established_date": "by 1914",
+      "date_kind": "classification attestation",
+      "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:42bc35f2dab4",
+      "historical_name": "Compound Duple Meter",
+      "descriptive_name": "Two Beats per Bar with Three-Part Beat Subdivision",
+      "established_date": "by 1914",
+      "date_kind": "classification attestation",
+      "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:20680b2f9387",
+      "historical_name": "Compound Triple Meter",
+      "descriptive_name": "Three Beats per Bar with Three-Part Beat Subdivision",
+      "established_date": "by 1914",
+      "date_kind": "classification attestation",
+      "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:77ef2fc922b1",
+      "historical_name": "Compound Quadruple Meter",
+      "descriptive_name": "Four Beats per Bar with Three-Part Beat Subdivision",
+      "established_date": "by 1914",
+      "date_kind": "classification attestation",
+      "dated_event": "§99 explicitly records the English six-cell simple/compound classification. Gehrkens also presents a competing classification; these are not conflated.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:8ac933567e01",
+      "historical_name": "Shell Voicing",
+      "descriptive_name": "Root-Third-Seventh Voicing",
+      "established_date": "by 1989",
+      "date_kind": "construction attestation through scholarly source",
+      "dated_event": "Dated construction source: Levine’s three-note teaching voicings, identified by McClimon as root–third–seventh shells. This does not date first use of “shell.”",
+      "sources": [
+        "mcclimon2017"
+      ]
+    },
+    {
+      "id": "sded:new:1bf9abe44014",
+      "historical_name": "Drop-2 Voicing",
+      "descriptive_name": "Second-from-Top Voice Lowered One Octave",
+      "established_date": "by 1989",
+      "date_kind": "construction attestation through scholarly source",
+      "dated_event": "Levine’s block-chord teaching is the dated source identified in the study. Earliest invention is not asserted.",
+      "sources": [
+        "drop2research"
+      ]
+    },
+    {
+      "id": "sded:new:8dd22f3a141e",
+      "historical_name": "CAGED System",
+      "descriptive_name": "Open-Chord-Form Fretboard Mapping",
+      "established_date": "1974–1975",
+      "date_kind": "diagram-to-publication range",
+      "dated_event": "Diagrams dated 1974, published May 1975, document the five-form method. This does not settle priority or date the later CAGED acronym.",
+      "sources": [
+        "caged1975"
+      ]
+    },
+    {
+      "id": "sded:new:b210e765916a",
+      "historical_name": "Vibrato",
+      "descriptive_name": "Pitch Modulation",
+      "established_date": "c. 1876",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Pitch-modulation sense.",
+      "sources": [
+        "mw51"
+      ]
+    },
+    {
+      "id": "sded:new:214a86bebc60",
+      "historical_name": "Tremolo",
+      "descriptive_name": "Amplitude Modulation",
+      "established_date": "by 1955",
+      "date_kind": "dated artifact",
+      "dated_event": "A documented June 1955 amplifier provides a firm artifact bound for electronic amplitude tremolo. Pitch-changing “tremolo” patents were excluded.",
+      "sources": [
+        "tremolux1955",
+        "fendertremolo"
+      ]
+    },
+    {
+      "id": "sded:new:54c1d787b1c2",
+      "historical_name": "Tremolo",
+      "descriptive_name": "Rapid Note Repetition",
+      "established_date": "c. 1801",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Rapid-reiteration performance sense, not the later electronic effect.",
+      "sources": [
+        "mw53"
+      ]
+    },
+    {
+      "id": "sded:new:80ab4be691ff",
+      "historical_name": "Comping",
+      "descriptive_name": "Take-Composite Editing",
+      "established_date": "by 1994",
+      "date_kind": "term attestation",
+      "dated_event": "Contemporary studio-production interview uses “vocal comping” in connection with retakes and constructing recorded performances.",
+      "sources": [
+        "comp1994"
+      ]
+    },
+    {
+      "id": "sded:new:d2e82836fa75",
+      "historical_name": "Comping",
+      "descriptive_name": "Harmonic Accompaniment",
+      "established_date": "1949",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Accompaniment verb, separately dated from other noun and verb senses.",
+      "sources": [
+        "mw55"
+      ]
+    },
+    {
+      "id": "sded:new:a0f4f040100c",
+      "historical_name": "Treble Clef",
+      "descriptive_name": "G Clef on the Second Staff Line",
+      "established_date": "1667",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. G-clef staff-position sense.",
+      "sources": [
+        "mw56"
+      ]
+    },
+    {
+      "id": "sded:new:deb84e4fa16d",
+      "historical_name": "Bass Clef",
+      "descriptive_name": "F Clef on the Fourth Staff Line",
+      "established_date": "1737",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. F-clef staff-position sense.",
+      "sources": [
+        "mw57"
+      ]
+    },
+    {
+      "id": "sded:new:c355865afec5",
+      "historical_name": "Alto Clef",
+      "descriptive_name": "C Clef on the Third Staff Line",
+      "established_date": "1813",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. C-clef staff-position sense.",
+      "sources": [
+        "mw58"
+      ]
+    },
+    {
+      "id": "sded:new:1a9d605992d6",
+      "historical_name": "Tenor Clef",
+      "descriptive_name": "C Clef on the Fourth Staff Line",
+      "established_date": "1714",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. C-clef staff-position sense.",
+      "sources": [
+        "mw59"
+      ]
+    },
+    {
+      "id": "sded:new:f00fef8b845e",
+      "historical_name": "Fixed-Do Solfège",
+      "descriptive_name": "Fixed-Pitch Do Solfège",
+      "established_date": "by 1914",
+      "date_kind": "system attestation",
+      "dated_event": "Fixed-pitch syllables and tonic-relative/do-based-minor usage are documented. Local syllable conventions remain separate.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:8b6c6389b229",
+      "historical_name": "Movable-Do Solfège",
+      "descriptive_name": "Tonic-Relative Do Solfège",
+      "established_date": "by 1914",
+      "date_kind": "system attestation",
+      "dated_event": "Fixed-pitch syllables and tonic-relative/do-based-minor usage are documented. Local syllable conventions remain separate.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:f9df786b639b",
+      "historical_name": "Twelve-Tone Equal Temperament",
+      "descriptive_name": "Twelve Equal Logarithmic Divisions of the Octave",
+      "established_date": "1584",
+      "date_kind": "documented calculation",
+      "dated_event": "Zhu Zaiyu’s twelve-pitch numerical calculation, as analyzed by Kuttner. Numerical construction is distinguished from later mathematical definitions and disputed priority.",
+      "sources": [
+        "kuttner1975"
+      ]
+    },
+    {
+      "id": "sded:new:f83c8d4f18c1",
+      "historical_name": "Retrograde",
+      "descriptive_name": "Time-Order Reversal",
+      "established_date": "by 1879",
+      "date_kind": "construction attestation",
+      "dated_event": "Contemporary dictionary documents reversing musical order. The operation is older; this is an attestation bound.",
+      "sources": [
+        "grove1879"
+      ]
+    },
+    {
+      "id": "sded:new:8f3642846566",
+      "historical_name": "Contrapuntal Inversion",
+      "descriptive_name": "Pitch-Direction Inversion",
+      "established_date": "by 1914",
+      "date_kind": "construction attestation",
+      "dated_event": "Thematic inversion reverses ascending and descending motion, §147.",
+      "sources": [
+        "gehrkens1914"
+      ]
+    },
+    {
+      "id": "sded:new:82b5b463a814",
+      "historical_name": "Gettier Problem",
+      "descriptive_name": "Justified-True-Belief Insufficiency Problem",
+      "established_date": "1963",
+      "date_kind": "publication",
+      "dated_event": "Publication of Gettier’s article; later problem-label coinage is not asserted.",
+      "sources": [
+        "gettier1963"
+      ]
+    },
+    {
+      "id": "sded:new:c78dbf3d71f4",
+      "historical_name": "Is–Ought Problem",
+      "descriptive_name": "Descriptive-to-Normative Inference Problem",
+      "established_date": "1740",
+      "date_kind": "publication",
+      "dated_event": "Publication of the is/ought passage in Book III; 1739 dates the earlier volumes.",
+      "sources": [
+        "hume1740",
+        "humeedition"
+      ]
+    },
+    {
+      "id": "sded:new:77a02103cf6c",
+      "historical_name": "Hume's Guillotine",
+      "descriptive_name": "Descriptive-to-Normative Inference Problem",
+      "established_date": "by 1964",
+      "date_kind": "term attestation through scholarly source",
+      "dated_event": "Black’s paper is the documented source attributed for the later metaphorical label, separate from Hume’s 1740 passage.",
+      "sources": [
+        "black1964",
+        "guillotine2015"
+      ]
+    },
+    {
+      "id": "sded:new:492fbfdc4bc4",
+      "historical_name": "Ship of Theseus",
+      "descriptive_name": "Artifact-Identity Problem under Replacement and Reassembly",
+      "established_date": "1655",
+      "date_kind": "variant publication",
+      "dated_event": "Hobbes’s replacement-and-reassembly variant. This does not date the older replacement-only story attributed to Plutarch.",
+      "sources": [
+        "hobbes1655"
+      ]
+    },
+    {
+      "id": "sded:new:6efb8de8d4f4",
+      "historical_name": "Chinese Room",
+      "descriptive_name": "Symbol-Manipulation and Understanding Thought Experiment",
+      "established_date": "1980",
+      "date_kind": "publication",
+      "dated_event": "Publication of Searle’s thought experiment.",
+      "sources": [
+        "searle1980"
+      ]
+    },
+    {
+      "id": "sded:new:2b407a8ac875",
+      "historical_name": "Occam's Razor",
+      "descriptive_name": "Parsimony Preference under Adequacy Constraints",
+      "established_date": "1852",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. English label, not the medieval principle.",
+      "sources": [
+        "mw70"
+      ]
+    },
+    {
+      "id": "sded:new:860895dc8ecb",
+      "historical_name": "Cartesian Dualism",
+      "descriptive_name": "Mind–Body Substance Dualism in Descartes's Account",
+      "established_date": "1641",
+      "date_kind": "publication",
+      "dated_event": "Publication of the Meditations; dates the specified account, not the later English label.",
+      "sources": [
+        "descartes1641"
+      ]
+    },
+    {
+      "id": "sded:new:f985482d43c4",
+      "historical_name": "Platonism",
+      "descriptive_name": "Realism about Abstract Objects",
+      "established_date": "1934–1935",
+      "date_kind": "lecture-to-publication range",
+      "dated_event": "Modern mathematical Platonism: Bernays’s lecture and publication. This dates an instance of abstract-object realism, not Plato’s ancient philosophy.",
+      "sources": [
+        "bernays1935"
+      ]
+    },
+    {
+      "id": "sded:new:16611b36a8b0",
+      "historical_name": "Valid Argument",
+      "descriptive_name": "Deductively Truth-Preserving Argument",
+      "established_date": "by 1946",
+      "date_kind": "sense attestation through scholarly source",
+      "dated_event": "Black’s 1946 glossary documents the specified deductive validity/soundness criteria. Hitchcock supplies the earlier attestation, correcting a 1953 attribution.",
+      "sources": [
+        "hitchcock1999"
+      ]
+    },
+    {
+      "id": "sded:new:941b14762926",
+      "historical_name": "Sound Argument",
+      "descriptive_name": "Valid Argument with True Premises",
+      "established_date": "by 1946",
+      "date_kind": "sense attestation through scholarly source",
+      "dated_event": "Black’s 1946 glossary documents the specified deductive validity/soundness criteria. Hitchcock supplies the earlier attestation, correcting a 1953 attribution.",
+      "sources": [
+        "hitchcock1999"
+      ]
+    },
+    {
+      "id": "sded:new:e89c1711f945",
+      "historical_name": "A Priori Justification",
+      "descriptive_name": "Justification Independent of Experience",
+      "established_date": "1781–1787",
+      "date_kind": "edition range",
+      "dated_event": "The Critique’s first/second-edition formulation of experience-independent and empirical knowledge. Earlier Latin uses do not alone date this epistemic sense.",
+      "sources": [
+        "kant1787"
+      ]
+    },
+    {
+      "id": "sded:new:44e2047f3fef",
+      "historical_name": "A Posteriori Justification",
+      "descriptive_name": "Justification Dependent on Experience",
+      "established_date": "1781–1787",
+      "date_kind": "edition range",
+      "dated_event": "The Critique’s first/second-edition formulation of experience-independent and empirical knowledge. Earlier Latin uses do not alone date this epistemic sense.",
+      "sources": [
+        "kant1787"
+      ]
+    },
+    {
+      "id": "sded:new:637e8df42696",
+      "historical_name": "Anaphora",
+      "descriptive_name": "Successive-Unit Initial Repetition",
+      "established_date": "before 1101 CE",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Rhetorical sense; dictionary gives “before the 12th century.”",
+      "sources": [
+        "mw77"
+      ]
+    },
+    {
+      "id": "sded:new:1d09d70a4043",
+      "historical_name": "Epistrophe",
+      "descriptive_name": "Successive-Unit Final Repetition",
+      "established_date": "c. 1584",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Rhetorical repetition sense.",
+      "sources": [
+        "mw78"
+      ]
+    },
+    {
+      "id": "sded:new:6c3cff937c5f",
+      "historical_name": "Free Verse",
+      "descriptive_name": "Verse without Regular Meter",
+      "established_date": "1813",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Metrical sense.",
+      "sources": [
+        "mw79"
+      ]
+    },
+    {
+      "id": "sded:new:b1252c12733c",
+      "historical_name": "Negative Space",
+      "descriptive_name": "Space around and between Focal Forms",
+      "established_date": "by 1979",
+      "date_kind": "term attestation through edition catalogue",
+      "dated_event": "The dated first-edition chapter title documents the instructional term. This is not a claim that artists first used surrounding space in 1979.",
+      "sources": [
+        "edwards1979"
+      ]
+    },
+    {
+      "id": "sded:new:8cab50155794",
+      "historical_name": "Monologue",
+      "descriptive_name": "Single-Speaker Extended Speech",
+      "established_date": "1549",
+      "date_kind": "lexicographic first-known-use report",
+      "dated_event": "Dictionary-reported first known English use. Dramatic speech sense.",
+      "sources": [
+        "mw81"
+      ]
+    },
+    {
+      "id": "sded:new:5ce66452ed28",
+      "historical_name": "Gothic Architecture",
+      "descriptive_name": "Pointed-Arch and Rib-Vault Architectural Tradition",
+      "established_date": "1140–1144",
+      "date_kind": "architectural development range",
+      "dated_event": "Construction-to-dedication range of the Saint-Denis choir as a formative Gothic example. The later label is not dated to the twelfth century.",
+      "sources": [
+        "saintdenis"
+      ]
+    },
+    {
+      "id": "sded:new:e68273581bdd",
+      "historical_name": "Tango",
+      "descriptive_name": "Río de la Plata Music-Dance Tradition",
+      "established_date": "c. 1875–1900",
+      "date_kind": "historical development range",
+      "dated_event": "Late-nineteenth-century formation in the Río de la Plata. Approximate period, not an exact birth date or exclusive national claim.",
+      "sources": [
+        "tangohistory"
+      ]
+    },
+    {
+      "id": "sded:new:8a9359524a2f",
+      "historical_name": "Flamenco",
+      "descriptive_name": "Andalusian Cante-Baile-Toque Tradition",
+      "established_date": "early 1800s",
+      "date_kind": "historical development range",
+      "dated_event": "Nomination’s stated emergence period. Preserve the source’s broad interval rather than invent precise endpoints.",
+      "sources": [
+        "flamenco2010"
+      ]
+    },
+    {
+      "id": "sded:new:68c9b28ad236",
+      "historical_name": "Hornbostel-Sachs Classification",
+      "descriptive_name": "Sound-Production Instrument Classification",
+      "established_date": "1914",
+      "date_kind": "publication",
+      "dated_event": "Publication of the original classification; later revisions require their own edition dates.",
+      "sources": [
+        "hs1914"
+      ]
+    }
+  ],
+  "inherited_corrections": [
+    {
+      "id": "sded:inherited:69dcdb487523",
+      "historical_name": "Noether's Theorem",
+      "descriptive_name": "Symmetry-Conservation Theorem",
+      "prior_established_date": "1915",
+      "established_date": "1918",
+      "date_kind": "documented historical correction",
+      "dated_event": "Publication of the symmetry/conservation paper; the inherited 1915 value is not its publication date.",
+      "sources": [
+        "noether1918"
+      ]
+    },
+    {
+      "id": "sded:inherited:515d3594dff1",
+      "historical_name": "Ampere",
+      "descriptive_name": "Electric-Current Unit",
+      "prior_established_date": "1820",
+      "established_date": "1893–1894",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "sources": [
+        "electrical1893",
+        "electrical1894"
+      ]
+    },
+    {
+      "id": "sded:inherited:567ff683006c",
+      "historical_name": "Volt",
+      "descriptive_name": "Electric-Potential Unit",
+      "prior_established_date": "1860",
+      "established_date": "1893–1894",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "sources": [
+        "electrical1893",
+        "electrical1894"
+      ]
+    },
+    {
+      "id": "sded:inherited:5375ae023b6a",
+      "historical_name": "Weber",
+      "descriptive_name": "Magnetic-Flux Unit",
+      "prior_established_date": "1852",
+      "established_date": "1930–1935",
+      "date_kind": "documented historical correction",
+      "dated_event": "IEC recommendation of the practical magnetic-flux unit; earlier uses of weber can denote different unit magnitudes.",
+      "sources": [
+        "iec1930"
+      ]
+    },
+    {
+      "id": "sded:inherited:e074db60bbd8",
+      "historical_name": "Tesla",
+      "descriptive_name": "Magnetic-Density Unit",
+      "prior_established_date": "1880",
+      "established_date": "1960",
+      "date_kind": "documented historical correction",
+      "dated_event": "SI adoption of the tesla as the magnetic-flux-density unit, not a date in Tesla’s research career.",
+      "sources": [
+        "si1960"
+      ]
+    },
+    {
+      "id": "sded:inherited:997151d81b4d",
+      "historical_name": "Ohm",
+      "descriptive_name": "Resistance Unit",
+      "prior_established_date": "1827",
+      "established_date": "1893–1894",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "sources": [
+        "electrical1893",
+        "electrical1894"
+      ]
+    },
+    {
+      "id": "sded:inherited:b5a62393c436",
+      "historical_name": "Farad",
+      "descriptive_name": "Capacitance Unit",
+      "prior_established_date": "1873",
+      "established_date": "1893–1894",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "sources": [
+        "electrical1893",
+        "electrical1894"
+      ]
+    },
+    {
+      "id": "sded:inherited:89badf506b76",
+      "historical_name": "Henry",
+      "descriptive_name": "Inductance Unit",
+      "prior_established_date": "1832",
+      "established_date": "1893–1894",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "sources": [
+        "electrical1893",
+        "electrical1894"
+      ]
+    },
+    {
+      "id": "sded:inherited:e6c451a281a1",
+      "historical_name": "Noether's Theorem",
+      "descriptive_name": "Angular-Momentum Conservation",
+      "prior_established_date": "1915",
+      "established_date": "1918",
+      "date_kind": "documented historical correction",
+      "dated_event": "Publication of the symmetry/conservation paper; the inherited 1915 value is not its publication date.",
+      "sources": [
+        "noether1918"
+      ]
+    },
+    {
+      "id": "sded:inherited:81c3be660e13",
+      "historical_name": "Tesla",
+      "descriptive_name": "Magnetic-Flux-Density Unit",
+      "prior_established_date": "1880",
+      "established_date": "1960",
+      "date_kind": "documented historical correction",
+      "dated_event": "SI adoption of the tesla as the magnetic-flux-density unit, not a date in Tesla’s research career.",
+      "sources": [
+        "si1960"
+      ]
+    },
+    {
+      "id": "sded:inherited:dd3de2c3f5b7",
+      "historical_name": "Avogadro's Number",
+      "descriptive_name": "Mole Particle Constant",
+      "prior_established_date": "1811",
+      "established_date": "by 1909",
+      "date_kind": "documented historical correction",
+      "dated_event": "Perrin’s named and numerically estimated constant; 1811 concerns Avogadro’s gas hypothesis.",
+      "sources": [
+        "perrin1909"
+      ]
+    },
+    {
+      "id": "sded:inherited:d95ba8158e86",
+      "historical_name": "Occam's Razor",
+      "descriptive_name": "Principle of Parsimony",
+      "prior_established_date": "1324",
+      "established_date": "1852",
+      "date_kind": "documented historical correction",
+      "dated_event": "Dictionary-reported first known English label; the older principle and medieval writings have separate histories.",
+      "sources": [
+        "mw70"
+      ]
+    },
+    {
+      "id": "sded:inherited:99fa3275f3d5",
+      "historical_name": "Tesla",
+      "descriptive_name": "Magnetic-Flux Density Unit",
+      "prior_established_date": "1880",
+      "established_date": "1960",
+      "date_kind": "documented historical correction",
+      "dated_event": "SI adoption of the tesla as the magnetic-flux-density unit, not a date in Tesla’s research career.",
+      "sources": [
+        "si1960"
+      ]
+    },
+    {
+      "id": "sded:inherited:640cced3a057",
+      "historical_name": "Hertz",
+      "descriptive_name": "Oscillation-Frequency Standard",
+      "prior_established_date": "1888",
+      "established_date": "1930–1935",
+      "date_kind": "documented historical correction",
+      "dated_event": "IEC naming-recommendation period; not the date of Hertz’s experiments.",
+      "sources": [
+        "iec1930"
+      ]
+    }
+  ]
+}

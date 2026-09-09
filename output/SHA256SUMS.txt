@@ -1,0 +1,3 @@
+09810198e8b4a355545719bfcfd080c13824f4160c098b0b6923ceeccda994a4  pdf/SDED-2.0.pdf
+bb67f69baa7e71db7ac9fc3ee910dc3762a500882cd1c718a6d4082cecba1b14  pdf/SDED-2.0-vocabulary.pdf
+80984d5dfe2ab0e5ed44d83dddefdc211e0b2a0fda44e2081457d172043ff805  SDED-2.0-source.zip

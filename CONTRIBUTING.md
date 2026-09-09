@@ -4,7 +4,7 @@ Anyone may propose an entry, correction, counterexample, or source through a rep
 
 Use `Descriptive name ("Historical name", est. YYYY)` when a sourced historical annotation is useful. `Descriptive name ("Historical name"™, est. YYYY)` is also acceptable; the ASCII `(TM)` fallback may be used as well. **TM styling is optional and never a conformance requirement.** It does not identify a separate concept or attest legal status. Do not add a copyright symbol as a substitute for attribution.
 
-If a date is unknown, say so. Specify whether a date concerns a publication, the term's first documented use, or another event. Do not infer a term's coinage date from the publication that later became associated with it.
+Every published vocabulary entry requires a researched calendar date, approximate period, or documented date range. An attestation such as `by 1872` supplies a supported upper bound when first use has not been established. Identify the event being dated and cite the evidence. Do not invent a lower bound or infer a term's coinage date from a publication that later became associated with it. Blank and `unknown` dates are not acceptable in the published index. See [date evidence](research/DATING.md).
 
 ## Proposal template
 
@@ -18,7 +18,7 @@ If a date is unknown, say so. Specify whether a date concerns a publication, the
 - Alias policy: exact equivalent, broader topic, historical pointer, or another specified relation.
 - Supporting sources, counterexamples, and evidence status.
 
-A short initial proposal can enter discussion before all fields are complete. A published registry entry must expose unresolved fields rather than silently fill them. For a terminology family, show the relevant dimensions and at least one near-neighbor test.
+A short initial proposal can enter discussion before all fields are complete. Historical dating must be completed before publication; other unresolved fields must remain explicit. For a terminology family, show the relevant dimensions and at least one near-neighbor test.
 
 ## Review and correction
 

@@ -11,6 +11,7 @@ The historical project name and acronym are retained for continuity. The expande
 - [Complete Markdown edition](SDED-2.0.md)
 - [Compact vocabulary in Markdown](vocabulary/SDED-2.0-vocabulary.md)
 - [Alphabetical historical-name lookup](vocabulary/HISTORICAL-NAME-LOOKUP.md)
+- [Entry-by-entry dates and source notes](research/DATING.md)
 - [Framework and case-study paper](paper/SDED-2.0.md)
 - [Contribution rules](CONTRIBUTING.md)
 - [Machine-readable example records](data/examples.json)
@@ -23,7 +24,7 @@ The reference restores 438 mappings from the latest prior library and 258 additi
 
 Default: `Descriptive name ("Historical name", est. YYYY)`.
 
-The trademark symbol is acceptable but optional: `Descriptive name ("Historical name"™, est. YYYY)`. Its absence never prevents participation or conformance. The marker is a stylistic element, not a concept identifier or evidence of trademark status. Do not invent establishment dates; record the event being dated and its source.
+The trademark symbol is acceptable but optional: `Descriptive name ("Historical name"™, est. YYYY)`. Its absence never prevents participation or conformance. The marker is a stylistic element, not a concept identifier or evidence of trademark status. Every indexed entry has a date, approximate period, or documented range; `by 1872` is an upper bound, not an invention claim. All 85 additions have source notes and 14 inherited records have explicit date corrections. Other inherited dates retain their recorded verification status. The build rejects blank or unknown dates and missing date evidence for additions.
 
 ## Earlier work
 

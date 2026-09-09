@@ -213,7 +213,7 @@ The default SDED display is `Descriptive name ("Historical name", est. YYYY)`. T
 
 This is a protocol convention, not a blanket assertion of trademark ownership or legal protection. The old universal assurances about parody are not carried forward. Nor is ™ a copyright symbol.
 
-The date must name an event in the record: publication of the concept, documented use of the term, or another specified event. These dates often differ. For example, 1963 dates Gettier's paper; it does not prove the later label *Gettier problem* was coined that year. Display `est. unknown` if unresolved, or a documented range/circa date. Uncertainty is preferable to a fabricated year. A date-free proposal can enter the review queue before historical dating is completed.
+Every published vocabulary entry must contain a researched calendar date, approximate period, or documented range. The date must name an event in the record: publication of the concept, attested use of the term, a construction, or another specified event. These dates often differ. For example, 1963 dates Gettier's paper; it does not prove the later label *Gettier problem* was coined that year. When a source establishes existence by a year but not first use, display a bound such as `est. by 1872`. This is a range with a supported upper endpoint; do not invent a lower endpoint. Blank or unknown dates are not acceptable in the published vocabulary. A date-free proposal can enter the review queue, preserving low-friction participation, while editors complete the historical research before publication.
 
 Retain the original low-friction reference idea: a first-use note can say *Following the SDED descriptor-first naming convention*, with a link to the relevant version. An optional *Learn more about SDED* link or a plain-text source note can explain unfamiliar formatting without interrupting each sentence. Refer to the actual version used; do not present the previous version DOI as the identity of this unpublished draft. Attribution requirements for reused licensed text are distinct from requiring a special marker in every name.
 
@@ -231,6 +231,8 @@ For the major/minor subset, hold the root and perfect fifth fixed. Vary triad qu
 | Minor | Major | 1-flat 3-5-7 | Cm(maj7) | Minor triad with major seventh |
 
 This is not new chord theory. *Open Music Theory* explicitly teaches major-major, major-minor, and minor-minor names alongside conventional aliases. The proposed contribution is consistent exposure of both coordinates, explicit typing of naming layers, and testing of the resulting interface. [Hamm, Seventh Chords](https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/).
+
+There is also a much older descriptive precedent. Henry Wylde’s 1872 harmony treatise lists seventh chords by their seventh, fifth, and third; its table on pages 105–106 includes the eight constructions used here. SDED therefore extends an existing practice of describing chord structure. The current date ledger uses this as a documented upper bound for the constructions, without assigning every modern alias to 1872. [Wylde, Harmony and the Science of Music](https://books.google.com/books?id=TV_v18DaRzkC).
 
 The conventional family is structurally inconsistent as a construction interface. *Major seventh* and *minor seventh* compress matched qualities; *minor-major seventh* exposes two qualities; *dominant seventh* uses a historically functional association for a reusable quality. A learner cannot infer the whole naming grammar from the siblings alone.
 

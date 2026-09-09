@@ -38,7 +38,8 @@ def esc(s):
     return ''.join(html.escape(c) if ord(c) in body_chars or c.isspace()
                    else '<font name="Fallback">'+html.escape(c)+'</font>' for c in s)
 
-inline_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\s)]+(?:\([^)]*\)[^\s)]*)?)\)|\*\*(.+?)\*\*|`([^`]+)`|\*([^*]+)\*')
+LINK = r'\[([^\]\n]+)\]\((https?://[^\s()]+(?:\([^()]*\)[^\s()]*)*)\)'
+inline_pattern = re.compile(LINK+r'|\*\*(.+?)\*\*|`([^`]+)`|\*([^*]+)\*')
 def rich(s):
     if re.match(r'\*\*.+?\.\*\* Concept:', s):
         s = re.sub(r'\b(Concept|Current names|Current usage|Name says|Names say|Hidden|Origin|History value|Descriptor|Loss|Alias):', r'**\1:**', s)
@@ -64,7 +65,7 @@ styles={
  'bullet':ParagraphStyle('bullet',fontName='Body',fontSize=10.3,leading=14.5,leftIndent=14,firstLineIndent=-10,spaceAfter=6.5),
  'h4':ParagraphStyle('h4',fontName='BodyBold',fontSize=10.2,leading=13,spaceBefore=9,spaceAfter=5,keepWithNext=True,textColor=colors.HexColor('#235e77')),
  'library':ParagraphStyle('library',fontName='Body',fontSize=9.5,leading=13,spaceAfter=9),
- 'reference':ParagraphStyle('reference',fontName='Body',fontSize=8.3,leading=11.5,spaceAfter=8,splitLongWords=True),
+ 'reference':ParagraphStyle('reference',fontName='Body',fontSize=8.3,leading=11.5,spaceAfter=7,splitLongWords=True),
 }
 class Document(BaseDocTemplate):
     def afterFlowable(self, flowable):
@@ -120,7 +121,7 @@ while i<len(lines):
             story += [toc,PageBreak()]
         style='title' if hashes==1 else ('subtitle' if title.startswith('Self-Documenting Terminology in ') else 'h2' if hashes==2 else 'h3' if hashes==3 else 'h4')
         p=Paragraph(rich(title),styles[style])
-        if hashes==2 and (re.match(r'(?:\d+|[A-E])\.',title) or title.startswith(('Appendix','Framework'))):
+        if hashes==2 and (re.match(r'(?:\d+|[A-Z])\.',title) or title.startswith(('Appendix','Framework'))):
             keynum+=1;p.toc_label=title;p.toc_key=f'section-{keynum}'
         story.append(p);i+=1;continue
     if re.match(r'^(- |\d+\. )',line):
@@ -136,11 +137,11 @@ if not VOCABULARY_ONLY:
     p=Paragraph('Cited source index',styles['h2']);p.toc_label='Cited source index';p.toc_key='source-index';story.append(p)
     story.append(Paragraph('Sources linked in the manuscript, in first-citation order. Access and discovery date: September 8, 2026. Some publisher pages were available through indexed text or metadata only; the historical PDF access limitation is stated in Sections 2 and 16.',styles['body']))
     seen=set()
-    for m in re.finditer(r"\[([^\]\n]+)\]\((https?://[^\s)]+)\)",source):
+    for m in re.finditer(LINK,source):
         if not m.group(1): continue
         label,url=m.group(1),m.group(2)
         if url in seen:continue
         seen.add(url)
         story.append(Paragraph(rich(f'[{label}]({url})')+'<br/>'+esc(url),styles['reference']))
 doc.multiBuild(story)
-print(f'Built {OUT}; {len(seen)} unique source links.')
+print(f'Built {OUT}; {len({m.group(2) for m in re.finditer(LINK,source)})} unique cited URLs.')

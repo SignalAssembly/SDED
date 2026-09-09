@@ -16,7 +16,8 @@ SOURCES = [
     "vocabulary/SDED-2.0-vocabulary.md", "vocabulary/HISTORICAL-NAME-LOOKUP.md",
     "data/inherited-vocabulary.json", "data/new-vocabulary.tsv",
     "data/new-vocabulary.json", "data/examples.json", "data/chord-quality-matrix.json",
-    "research/HISTORY.md", "research/VERIFICATION.md",
+    "research/HISTORY.md", "research/VERIFICATION.md", "research/DATING.md",
+    "data/date-evidence.json",
     "scripts/build_vocabulary.py", "scripts/build_pdf.py", "scripts/build_data.py",
     "scripts/package_release.py",
 ]

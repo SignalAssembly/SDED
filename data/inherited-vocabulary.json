@@ -1731,16 +1731,23 @@
       "id": "sded:inherited:69dcdb487523",
       "descriptive_name": "Symmetry-Conservation Theorem",
       "historical_name": "Noether's Theorem",
-      "established_date": "1915",
+      "established_date": "1918",
       "domain": "PHYSICS",
       "subdomain": "CLASSICAL MECHANICS",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "SDED_Protocol_Specification_v1.2.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1915",
+      "date_kind": "documented historical correction",
+      "dated_event": "Publication of the symmetry/conservation paper; the inherited 1915 value is not its publication date.",
+      "date_sources": [
+        "noether1918"
+      ],
+      "date_evidence": "C01"
     },
     {
       "id": "sded:inherited:6af6b6f612b6",
@@ -2203,114 +2210,168 @@
       "id": "sded:inherited:515d3594dff1",
       "descriptive_name": "Electric-Current Unit",
       "historical_name": "Ampere",
-      "established_date": "1820",
+      "established_date": "1893–1894",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "expanded_libraries.py",
         "SDED_Protocol_Specification_v1.2.pdf",
         "SDED_v1_2_RevisionB_FULL.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1820",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "date_sources": [
+        "electrical1893",
+        "electrical1894"
+      ],
+      "date_evidence": "C02"
     },
     {
       "id": "sded:inherited:567ff683006c",
       "descriptive_name": "Electric-Potential Unit",
       "historical_name": "Volt",
-      "established_date": "1860",
+      "established_date": "1893–1894",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "expanded_libraries.py",
         "SDED_Protocol_Specification_v1.2.pdf",
         "SDED_v1_2_RevisionB_FULL.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1860",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "date_sources": [
+        "electrical1893",
+        "electrical1894"
+      ],
+      "date_evidence": "C03"
     },
     {
       "id": "sded:inherited:5375ae023b6a",
       "descriptive_name": "Magnetic-Flux Unit",
       "historical_name": "Weber",
-      "established_date": "1852",
+      "established_date": "1930–1935",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "expanded_libraries.py",
         "SDED_Protocol_Specification_v1.2.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1852",
+      "date_kind": "documented historical correction",
+      "dated_event": "IEC recommendation of the practical magnetic-flux unit; earlier uses of weber can denote different unit magnitudes.",
+      "date_sources": [
+        "iec1930"
+      ],
+      "date_evidence": "C04"
     },
     {
       "id": "sded:inherited:e074db60bbd8",
       "descriptive_name": "Magnetic-Density Unit",
       "historical_name": "Tesla",
-      "established_date": "1880",
+      "established_date": "1960",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "SDED_Protocol_Specification_v1.2.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1880",
+      "date_kind": "documented historical correction",
+      "dated_event": "SI adoption of the tesla as the magnetic-flux-density unit, not a date in Tesla’s research career.",
+      "date_sources": [
+        "si1960"
+      ],
+      "date_evidence": "C05"
     },
     {
       "id": "sded:inherited:997151d81b4d",
       "descriptive_name": "Resistance Unit",
       "historical_name": "Ohm",
-      "established_date": "1827",
+      "established_date": "1893–1894",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "expanded_libraries.py",
         "SDED_Protocol_Specification_v1.2.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1827",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "date_sources": [
+        "electrical1893",
+        "electrical1894"
+      ],
+      "date_evidence": "C06"
     },
     {
       "id": "sded:inherited:b5a62393c436",
       "descriptive_name": "Capacitance Unit",
       "historical_name": "Farad",
-      "established_date": "1873",
+      "established_date": "1893–1894",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "expanded_libraries.py",
         "SDED_Protocol_Specification_v1.2.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1873",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "date_sources": [
+        "electrical1893",
+        "electrical1894"
+      ],
+      "date_evidence": "C07"
     },
     {
       "id": "sded:inherited:89badf506b76",
       "descriptive_name": "Inductance Unit",
       "historical_name": "Henry",
-      "established_date": "1832",
+      "established_date": "1893–1894",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_RevisionB_full.py",
         "expanded_libraries.py",
         "SDED_Protocol_Specification_v1.2.pdf"
       ],
-      "latest_revision_b": true
+      "latest_revision_b": true,
+      "prior_established_date": "1832",
+      "date_kind": "documented historical correction",
+      "dated_event": "International electrical-unit standardization and subsequent U.S. legislation. This range dates these defined standards, not earliest coinage.",
+      "date_sources": [
+        "electrical1893",
+        "electrical1894"
+      ],
+      "date_evidence": "C08"
     },
     {
       "id": "sded:inherited:3a8303788e17",
@@ -7973,15 +8034,22 @@
       "id": "sded:inherited:e6c451a281a1",
       "descriptive_name": "Angular-Momentum Conservation",
       "historical_name": "Noether's Theorem",
-      "established_date": "1915",
+      "established_date": "1918",
       "domain": "PHYSICS",
       "subdomain": "CLASSICAL MECHANICS",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "expanded_libraries.py"
       ],
-      "latest_revision_b": false
+      "latest_revision_b": false,
+      "prior_established_date": "1915",
+      "date_kind": "documented historical correction",
+      "dated_event": "Publication of the symmetry/conservation paper; the inherited 1915 value is not its publication date.",
+      "date_sources": [
+        "noether1918"
+      ],
+      "date_evidence": "C09"
     },
     {
       "id": "sded:inherited:3363777ddad6",
@@ -8281,15 +8349,22 @@
       "id": "sded:inherited:81c3be660e13",
       "descriptive_name": "Magnetic-Flux-Density Unit",
       "historical_name": "Tesla",
-      "established_date": "1880",
+      "established_date": "1960",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "expanded_libraries.py"
       ],
-      "latest_revision_b": false
+      "latest_revision_b": false,
+      "prior_established_date": "1880",
+      "date_kind": "documented historical correction",
+      "dated_event": "SI adoption of the tesla as the magnetic-flux-density unit, not a date in Tesla’s research career.",
+      "date_sources": [
+        "si1960"
+      ],
+      "date_evidence": "C10"
     },
     {
       "id": "sded:inherited:a7c77f9ba77f",
@@ -9371,17 +9446,24 @@
       "id": "sded:inherited:dd3de2c3f5b7",
       "descriptive_name": "Mole Particle Constant",
       "historical_name": "Avogadro's Number",
-      "established_date": "1811",
+      "established_date": "by 1909",
       "domain": "CHEMISTRY",
       "subdomain": "EARLIER VOCABULARY",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_full.py",
         "SDED v1.2_ Specification and Approved Vocabulary Set 1.pdf",
         "SDED_v1_2_full.pdf"
       ],
-      "latest_revision_b": false
+      "latest_revision_b": false,
+      "prior_established_date": "1811",
+      "date_kind": "documented historical correction",
+      "dated_event": "Perrin’s named and numerically estimated constant; 1811 concerns Avogadro’s gas hypothesis.",
+      "date_sources": [
+        "perrin1909"
+      ],
+      "date_evidence": "C11"
     },
     {
       "id": "sded:inherited:5bb39f035099",
@@ -9915,17 +9997,24 @@
       "id": "sded:inherited:d95ba8158e86",
       "descriptive_name": "Principle of Parsimony",
       "historical_name": "Occam's Razor",
-      "established_date": "1324",
+      "established_date": "1852",
       "domain": "HUMANITIES",
       "subdomain": "EARLIER VOCABULARY",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "build_sded_v1_2_full.py",
         "SDED v1.2_ Specification and Approved Vocabulary Set 1.pdf",
         "SDED_v1_2_full.pdf"
       ],
-      "latest_revision_b": false
+      "latest_revision_b": false,
+      "prior_established_date": "1324",
+      "date_kind": "documented historical correction",
+      "dated_event": "Dictionary-reported first known English label; the older principle and medieval writings have separate histories.",
+      "date_sources": [
+        "mw70"
+      ],
+      "date_evidence": "C12"
     },
     {
       "id": "sded:inherited:a9b1ac53cda4",
@@ -10069,15 +10158,22 @@
       "id": "sded:inherited:99fa3275f3d5",
       "descriptive_name": "Magnetic-Flux Density Unit",
       "historical_name": "Tesla",
-      "established_date": "1880",
+      "established_date": "1960",
       "domain": "PHYSICS",
       "subdomain": "ELECTROMAGNETISM",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "SDED_v1_2_RevisionB_FULL.pdf"
       ],
-      "latest_revision_b": false
+      "latest_revision_b": false,
+      "prior_established_date": "1880",
+      "date_kind": "documented historical correction",
+      "dated_event": "SI adoption of the tesla as the magnetic-flux-density unit, not a date in Tesla’s research career.",
+      "date_sources": [
+        "si1960"
+      ],
+      "date_evidence": "C13"
     },
     {
       "id": "sded:inherited:f6b2a76b3760",
@@ -10251,15 +10347,22 @@
       "id": "sded:inherited:640cced3a057",
       "descriptive_name": "Oscillation-Frequency Standard",
       "historical_name": "Hertz",
-      "established_date": "1888",
+      "established_date": "1930–1935",
       "domain": "ENGINEERING",
       "subdomain": "ELECTRICAL",
       "status": "inherited vocabulary",
-      "date_status": "as recorded in prior version; not independently revalidated",
+      "date_status": "corrected in 2.0 using documented event and sources",
       "sources": [
         "SDED_v1_2_RevisionB_FULL.pdf"
       ],
-      "latest_revision_b": false
+      "latest_revision_b": false,
+      "prior_established_date": "1888",
+      "date_kind": "documented historical correction",
+      "dated_event": "IEC naming-recommendation period; not the date of Hertz’s experiments.",
+      "date_sources": [
+        "iec1930"
+      ],
+      "date_evidence": "C14"
     },
     {
       "id": "sded:inherited:f7d79fec9070",
